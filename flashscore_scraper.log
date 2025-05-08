@@ -1,0 +1,8 @@
+2025-05-04 18:07:33,077 - flashscore_scraper - INFO - Scraper initialized
+2025-05-04 18:07:45,261 - flashscore_scraper - INFO - Found 0 fixtures for league: https://www.flashscore.com/football/england/premier-league/
+2025-05-04 18:07:45,276 - flashscore_scraper - ERROR - No data to save to data/leagues//fixtures_20250504_180745.csv
+2025-05-04 18:07:45,279 - flashscore_scraper - ERROR - No data to save to data/leagues//match_details_20250504_180745.csv
+2025-05-04 18:10:53,113 - flashscore_scraper - INFO - Scraper initialized
+2025-05-04 18:11:10,806 - flashscore_scraper - INFO - Found 0 fixtures for league: https://www.flashscore.com/football/brazil/serie-a-betano/
+2025-05-04 18:11:10,819 - flashscore_scraper - ERROR - No data to save to data/leagues//fixtures_20250504_181110.csv
+2025-05-04 18:11:10,836 - flashscore_scraper - ERROR - No data to save to data/leagues//match_details_20250504_181110.csv

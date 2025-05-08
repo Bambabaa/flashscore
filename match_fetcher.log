@@ -1,0 +1,13 @@
+2025-05-08 01:37:09,564 - INFO - ====== WebDriver manager ======
+2025-05-08 01:37:22,166 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-08 01:37:22,664 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-08 01:37:22,970 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-08 01:37:23,866 - INFO - WebDriver version 136.0.7103.92 selected
+2025-05-08 01:37:23,897 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.92/win32/chromedriver-win32.zip
+2025-05-08 01:37:23,898 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.92/win32/chromedriver-win32.zip
+2025-05-08 01:37:24,375 - INFO - Driver downloading response is 200
+2025-05-08 01:37:28,269 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-08 01:37:31,569 - INFO - Driver has been saved in cache [C:\Users\M2S30\.wdm\drivers\chromedriver\win64\136.0.7103.92]
+2025-05-08 01:37:38,669 - INFO - Fetching matches for date: 20250507
+2025-05-08 01:39:59,230 - ERROR - Error fetching match IDs: HTTPConnectionPool(host='localhost', port=65500): Read timed out. (read timeout=120)
+2025-05-08 01:41:59,565 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=65500): Read timed out. (read timeout=120)")': /session/d35be3b424e8673e0964ea874b18c874

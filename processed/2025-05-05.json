@@ -1,0 +1,936 @@
+[
+  {
+    "statistics": {
+      "full_time": [
+        {
+          "label": "Expected Goals (xG)",
+          "home_value": "2.91",
+          "away_value": "1.17"
+        },
+        {
+          "label": "Ball Possession",
+          "home_value": "35%",
+          "away_value": "65%"
+        },
+        {
+          "label": "Total shots",
+          "home_value": "17",
+          "away_value": "11"
+        },
+        {
+          "label": "Shots on target",
+          "home_value": "7",
+          "away_value": "2"
+        },
+        {
+          "label": "Big Chances",
+          "home_value": "5",
+          "away_value": "3"
+        },
+        {
+          "label": "Corner Kicks",
+          "home_value": "3",
+          "away_value": "6"
+        },
+        {
+          "label": "Passes",
+          "home_value": "84%(292/346)",
+          "away_value": "88%(549/622)"
+        },
+        {
+          "label": "Yellow Cards",
+          "home_value": "2",
+          "away_value": "2"
+        },
+        {
+          "label": "Expected Goals (xG)",
+          "home_value": "2.91",
+          "away_value": "1.17"
+        },
+        {
+          "label": "xG on target (xGOT)",
+          "home_value": "3.04",
+          "away_value": "0.23"
+        },
+        {
+          "label": "Total shots",
+          "home_value": "17",
+          "away_value": "11"
+        },
+        {
+          "label": "Shots on target",
+          "home_value": "7",
+          "away_value": "2"
+        },
+        {
+          "label": "Shots off target",
+          "home_value": "6",
+          "away_value": "5"
+        },
+        {
+          "label": "Blocked Shots",
+          "home_value": "4",
+          "away_value": "4"
+        },
+        {
+          "label": "Shots inside the Box",
+          "home_value": "14",
+          "away_value": "9"
+        },
+        {
+          "label": "Shots outside the Box",
+          "home_value": "3",
+          "away_value": "2"
+        },
+        {
+          "label": "Hit the Woodwork",
+          "home_value": "2",
+          "away_value": "0"
+        },
+        {
+          "label": "Headed Goals",
+          "home_value": "0",
+          "away_value": "1"
+        },
+        {
+          "label": "Big Chances",
+          "home_value": "5",
+          "away_value": "3"
+        },
+        {
+          "label": "Corner Kicks",
+          "home_value": "3",
+          "away_value": "6"
+        },
+        {
+          "label": "Touches in opposition box",
+          "home_value": "34",
+          "away_value": "35"
+        },
+        {
+          "label": "Accurate through passes",
+          "home_value": "0",
+          "away_value": "0"
+        },
+        {
+          "label": "Offsides",
+          "home_value": "6",
+          "away_value": "0"
+        },
+        {
+          "label": "Free Kicks",
+          "home_value": "11",
+          "away_value": "10"
+        },
+        {
+          "label": "Passes",
+          "home_value": "84%(292/346)",
+          "away_value": "88%(549/622)"
+        },
+        {
+          "label": "Long passes",
+          "home_value": "35%(17/48)",
+          "away_value": "44%(17/39)"
+        },
+        {
+          "label": "Passes in final third",
+          "home_value": "65%(60/93)",
+          "away_value": "74%(116/157)"
+        },
+        {
+          "label": "Crosses",
+          "home_value": "50%(3/6)",
+          "away_value": "35%(8/23)"
+        },
+        {
+          "label": "Expected assists (xA)",
+          "home_value": "1.32",
+          "away_value": "1.07"
+        },
+        {
+          "label": "Throw-ins",
+          "home_value": "12",
+          "away_value": "24"
+        },
+        {
+          "label": "Fouls",
+          "home_value": "10",
+          "away_value": "11"
+        },
+        {
+          "label": "Tackles",
+          "home_value": "65%(11/17)",
+          "away_value": "78%(7/9)"
+        },
+        {
+          "label": "Duels won",
+          "home_value": "40",
+          "away_value": "30"
+        },
+        {
+          "label": "Clearances",
+          "home_value": "33",
+          "away_value": "11"
+        },
+        {
+          "label": "Interceptions",
+          "home_value": "12",
+          "away_value": "3"
+        },
+        {
+          "label": "Errors leading to shot",
+          "home_value": "0",
+          "away_value": "1"
+        },
+        {
+          "label": "Errors leading to goal",
+          "home_value": "0",
+          "away_value": "0"
+        },
+        {
+          "label": "Goalkeeper Saves",
+          "home_value": "1",
+          "away_value": "4"
+        },
+        {
+          "label": "xGOT faced",
+          "home_value": "0.23",
+          "away_value": "3.04"
+        },
+        {
+          "label": "Goals prevented",
+          "home_value": "-0.77",
+          "away_value": "1.04"
+        }
+      ],
+      "1st_half": [
+        {
+          "label": "Expected Goals (xG)",
+          "home_value": "0.96",
+          "away_value": "0.33"
+        },
+        {
+          "label": "Ball Possession",
+          "home_value": "34%",
+          "away_value": "66%"
+        },
+        {
+          "label": "Total shots",
+          "home_value": "7",
+          "away_value": "4"
+        },
+        {
+          "label": "Shots on target",
+          "home_value": "1",
+          "away_value": "1"
+        },
+        {
+          "label": "Big Chances",
+          "home_value": "1",
+          "away_value": "0"
+        },
+        {
+          "label": "Corner Kicks",
+          "home_value": "2",
+          "away_value": "1"
+        },
+        {
+          "label": "Passes",
+          "home_value": "85%(151/178)",
+          "away_value": "89%(308/345)"
+        },
+        {
+          "label": "Expected Goals (xG)",
+          "home_value": "0.96",
+          "away_value": "0.33"
+        },
+        {
+          "label": "xG on target (xGOT)",
+          "home_value": "0.90",
+          "away_value": "0.12"
+        },
+        {
+          "label": "Total shots",
+          "home_value": "7",
+          "away_value": "4"
+        },
+        {
+          "label": "Shots on target",
+          "home_value": "1",
+          "away_value": "1"
+        },
+        {
+          "label": "Shots off target",
+          "home_value": "3",
+          "away_value": "1"
+        },
+        {
+          "label": "Blocked Shots",
+          "home_value": "3",
+          "away_value": "2"
+        },
+        {
+          "label": "Shots inside the Box",
+          "home_value": "6",
+          "away_value": "4"
+        },
+        {
+          "label": "Shots outside the Box",
+          "home_value": "1",
+          "away_value": "0"
+        },
+        {
+          "label": "Hit the Woodwork",
+          "home_value": "1",
+          "away_value": "0"
+        },
+        {
+          "label": "Big Chances",
+          "home_value": "1",
+          "away_value": "0"
+        },
+        {
+          "label": "Corner Kicks",
+          "home_value": "2",
+          "away_value": "1"
+        },
+        {
+          "label": "Touches in opposition box",
+          "home_value": "11",
+          "away_value": "17"
+        },
+        {
+          "label": "Accurate through passes",
+          "home_value": "0",
+          "away_value": "0"
+        },
+        {
+          "label": "Offsides",
+          "home_value": "4",
+          "away_value": "0"
+        },
+        {
+          "label": "Free Kicks",
+          "home_value": "3",
+          "away_value": "5"
+        },
+        {
+          "label": "Passes",
+          "home_value": "85%(151/178)",
+          "away_value": "89%(308/345)"
+        },
+        {
+          "label": "Long passes",
+          "home_value": "24%(5/21)",
+          "away_value": "32%(6/19)"
+        },
+        {
+          "label": "Passes in final third",
+          "home_value": "58%(19/33)",
+          "away_value": "72%(54/75)"
+        },
+        {
+          "label": "Crosses",
+          "home_value": "50%(3/6)",
+          "away_value": "22%(2/9)"
+        },
+        {
+          "label": "Expected assists (xA)",
+          "home_value": "0.36",
+          "away_value": "0.24"
+        },
+        {
+          "label": "Throw-ins",
+          "home_value": "10",
+          "away_value": "12"
+        },
+        {
+          "label": "Fouls",
+          "home_value": "5",
+          "away_value": "3"
+        },
+        {
+          "label": "Tackles",
+          "home_value": "67%(6/9)",
+          "away_value": "67%(2/3)"
+        },
+        {
+          "label": "Duels won",
+          "home_value": "19",
+          "away_value": "12"
+        },
+        {
+          "label": "Clearances",
+          "home_value": "16",
+          "away_value": "9"
+        },
+        {
+          "label": "Interceptions",
+          "home_value": "4",
+          "away_value": "2"
+        },
+        {
+          "label": "Errors leading to shot",
+          "home_value": "0",
+          "away_value": "0"
+        },
+        {
+          "label": "Errors leading to goal",
+          "home_value": "0",
+          "away_value": "0"
+        },
+        {
+          "label": "Goalkeeper Saves",
+          "home_value": "1",
+          "away_value": "0"
+        },
+        {
+          "label": "xGOT faced",
+          "home_value": "0.12",
+          "away_value": "0.90"
+        },
+        {
+          "label": "Goals prevented",
+          "home_value": "0.12",
+          "away_value": "-0.10"
+        }
+      ],
+      "2nd_half": [
+        {
+          "label": "Expected Goals (xG)",
+          "home_value": "1.95",
+          "away_value": "0.84"
+        },
+        {
+          "label": "Ball Possession",
+          "home_value": "36%",
+          "away_value": "64%"
+        },
+        {
+          "label": "Total shots",
+          "home_value": "10",
+          "away_value": "7"
+        },
+        {
+          "label": "Shots on target",
+          "home_value": "6",
+          "away_value": "1"
+        },
+        {
+          "label": "Big Chances",
+          "home_value": "4",
+          "away_value": "3"
+        },
+        {
+          "label": "Corner Kicks",
+          "home_value": "1",
+          "away_value": "5"
+        },
+        {
+          "label": "Passes",
+          "home_value": "84%(141/168)",
+          "away_value": "87%(241/277)"
+        },
+        {
+          "label": "Yellow Cards",
+          "home_value": "2",
+          "away_value": "2"
+        },
+        {
+          "label": "Expected Goals (xG)",
+          "home_value": "1.95",
+          "away_value": "0.84"
+        },
+        {
+          "label": "xG on target (xGOT)",
+          "home_value": "2.14",
+          "away_value": "0.11"
+        },
+        {
+          "label": "Total shots",
+          "home_value": "10",
+          "away_value": "7"
+        },
+        {
+          "label": "Shots on target",
+          "home_value": "6",
+          "away_value": "1"
+        },
+        {
+          "label": "Shots off target",
+          "home_value": "3",
+          "away_value": "4"
+        },
+        {
+          "label": "Blocked Shots",
+          "home_value": "1",
+          "away_value": "2"
+        },
+        {
+          "label": "Shots inside the Box",
+          "home_value": "8",
+          "away_value": "5"
+        },
+        {
+          "label": "Shots outside the Box",
+          "home_value": "2",
+          "away_value": "2"
+        },
+        {
+          "label": "Hit the Woodwork",
+          "home_value": "1",
+          "away_value": "0"
+        },
+        {
+          "label": "Headed Goals",
+          "home_value": "0",
+          "away_value": "1"
+        },
+        {
+          "label": "Big Chances",
+          "home_value": "4",
+          "away_value": "3"
+        },
+        {
+          "label": "Corner Kicks",
+          "home_value": "1",
+          "away_value": "5"
+        },
+        {
+          "label": "Touches in opposition box",
+          "home_value": "23",
+          "away_value": "18"
+        },
+        {
+          "label": "Accurate through passes",
+          "home_value": "0",
+          "away_value": "0"
+        },
+        {
+          "label": "Offsides",
+          "home_value": "2",
+          "away_value": "0"
+        },
+        {
+          "label": "Free Kicks",
+          "home_value": "8",
+          "away_value": "5"
+        },
+        {
+          "label": "Passes",
+          "home_value": "84%(141/168)",
+          "away_value": "87%(241/277)"
+        },
+        {
+          "label": "Long passes",
+          "home_value": "44%(12/27)",
+          "away_value": "55%(11/20)"
+        },
+        {
+          "label": "Passes in final third",
+          "home_value": "68%(41/60)",
+          "away_value": "76%(62/82)"
+        },
+        {
+          "label": "Expected assists (xA)",
+          "home_value": "0.96",
+          "away_value": "0.83"
+        },
+        {
+          "label": "Throw-ins",
+          "home_value": "2",
+          "away_value": "12"
+        },
+        {
+          "label": "Fouls",
+          "home_value": "5",
+          "away_value": "8"
+        },
+        {
+          "label": "Tackles",
+          "home_value": "63%(5/8)",
+          "away_value": "83%(5/6)"
+        },
+        {
+          "label": "Duels won",
+          "home_value": "21",
+          "away_value": "18"
+        },
+        {
+          "label": "Clearances",
+          "home_value": "17",
+          "away_value": "2"
+        },
+        {
+          "label": "Interceptions",
+          "home_value": "8",
+          "away_value": "1"
+        },
+        {
+          "label": "Errors leading to shot",
+          "home_value": "0",
+          "away_value": "1"
+        },
+        {
+          "label": "Errors leading to goal",
+          "home_value": "0",
+          "away_value": "0"
+        },
+        {
+          "label": "Goalkeeper Saves",
+          "home_value": "0",
+          "away_value": "4"
+        },
+        {
+          "label": "xGOT faced",
+          "home_value": "0.11",
+          "away_value": "2.14"
+        },
+        {
+          "label": "Goals prevented",
+          "home_value": "-0.89",
+          "away_value": "1.14"
+        }
+      ]
+    },
+    "commentary": [
+      [
+        "0",
+        "Good afternoon, ladies and gentlemen! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match."
+      ],
+      [
+        "0",
+        "Simon Hooper will supervise the game today."
+      ],
+      [
+        "1",
+        "The match has just started."
+      ],
+      [
+        "3",
+        "Goal! Pedro Neto tees up Enzo Fernandez (Chelsea) inside the box, and he keeps his cool to find the bottom right corner. 1:0."
+      ],
+      [
+        "8",
+        "Some great controlled play and passing in the middle of the pitch from Liverpool."
+      ],
+      [
+        "10",
+        "Nicolas Jackson (Chelsea) is forced to stop his forward run after being caught in an offside position by the linesman."
+      ],
+      [
+        "13",
+        "Cody Gakpo (Liverpool) clips a neat ball into the box in the direction of Mohamed Salah, but he can't get on the end of the pass. The ball goes out of play and Chelsea will have a goal kick."
+      ],
+      [
+        "17",
+        "Pedro Neto (Chelsea) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+      ],
+      [
+        "21",
+        "The ball possession is 33:67."
+      ],
+      [
+        "24",
+        "Simon Hooper has a clear sight and sees a foul from Moises Caicedo (Chelsea). A free kick is awarded to Liverpool."
+      ],
+      [
+        "28",
+        "Noni Madueke (Chelsea) did his best to latch on to a crossfield pass, but it was too long and it goes out of play. The ball is out of play. Liverpool will have a throw-in."
+      ],
+      [
+        "30",
+        "Cole Palmer (Chelsea) sends a pass into the box, but his attempt is thwarted and cleared. The linesman points to the corner flag, Chelsea are going to take it."
+      ],
+      [
+        "31",
+        "Pedro Neto (Chelsea) gets to the rebound and shoots, but the effort is blocked. The referee blows his whistle, Chelsea are awarded a corner kick."
+      ],
+      [
+        "33",
+        "Moises Caicedo (Chelsea) fails to pick a body out in the box with an over-hit chip pass. The ball goes out of play and Liverpool will have a goal kick."
+      ],
+      [
+        "36",
+        "Trent Alexander-Arnold (Liverpool) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. Liverpool force a corner. Their opponents will face another attacking threat."
+      ],
+      [
+        "38",
+        "Cole Palmer (Chelsea) fails to pick a body out in the box with an over-hit chip pass."
+      ],
+      [
+        "43",
+        "Pedro Neto (Chelsea) has an effort on goal, but he misses to the right of the goal. The ball goes out of play and Liverpool will have a goal kick."
+      ],
+      [
+        "45",
+        "Curtis Jones (Liverpool) pulls the jersey of one of the opposition players and Simon Hooper blows his whistle for a foul."
+      ],
+      [
+        "45+2",
+        "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+      ],
+      [
+        "47",
+        "Diogo Jota (Liverpool) fouls an opponent during an attacking move."
+      ],
+      [
+        "51",
+        "Virgil van Dijk (Liverpool) is booked after bringing down an opponent. Simon Hooper had an easy-decision to make."
+      ],
+      [
+        "54",
+        "Trevoh Chalobah (Chelsea) goes into the book for a horrible tackle. A yellow card is necessary in this case."
+      ],
+      [
+        "57",
+        "The substitution is prepared. Conor Bradley (Liverpool) joins the action as a substitute, replacing Trent Alexander-Arnold."
+      ],
+      [
+        "58",
+        "Simon Hooper shows a yellow card to Jarell Quansah (Liverpool) for his blatant foul."
+      ],
+      [
+        "61",
+        "Nicolas Jackson (Chelsea) has a sight of goal and shoots towards the bottom left corner, but the goalkeeper makes a superb save."
+      ],
+      [
+        "63",
+        "Virgil van Dijk (Liverpool) makes a good run into the box and unleashes a powerful header in the centre of the box from the corner, but it rises well over the bar. The ball goes out of play and Chelsea will have a goal kick."
+      ],
+      [
+        "66",
+        "Two players stand over the free kick. Harvey Elliott (Liverpool) eventually steps forward, but his attempt from the edge of the box is blocked by the defensive wall."
+      ],
+      [
+        "67",
+        "A dangerous looking corner kick from Konstantinos Tsimikas (Liverpool) is cleared to safety by the defence."
+      ],
+      [
+        "69",
+        "The referee signals that it is time for a substitution and Dominik Szoboszlai (Liverpool) will replace Harvey Elliott."
+      ],
+      [
+        "71",
+        "Darwin Nunez (Liverpool) tries to latch onto a defence-splitting pass, but one of the defending players intercepts the effort and the danger passes."
+      ],
+      [
+        "73",
+        "Liverpool failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+      ],
+      [
+        "76",
+        "The number of shots on goal at present is 4:1."
+      ],
+      [
+        "78",
+        "Mohamed Salah (Liverpool) climbs highest in the middle of the box after a cross from the wing, but sends a good looking header narrowly wide of the left post. The ball is off of the pitch and it's a goal kick for Chelsea."
+      ],
+      [
+        "80",
+        "The defender bravely blocks the shot from Noni Madueke (Chelsea) inside the box."
+      ],
+      [
+        "81",
+        "Cole Palmer (Chelsea) creates a good chance for himself and fires in a powerful close-range shot, but his effort ricochets off the right post."
+      ],
+      [
+        "84",
+        "Mohamed Salah (Liverpool) looks to break free, but an opposing player clears the ball away. The ball is out of play. Liverpool will have a chance to score from a corner."
+      ],
+      [
+        "84",
+        "The referee is firm and issues Jadon Sancho (Chelsea) a deserved yellow card."
+      ],
+      [
+        "86",
+        "That didn't go as planned! Cole Palmer (Chelsea) tried his luck from the edge of the box, but his effort towards the bottom left corner was too weak to get past Alisson, who easily kept it out."
+      ],
+      [
+        "88",
+        "Enzo Fernandez goes off the pitch and Reece James (Chelsea) comes on."
+      ],
+      [
+        "90",
+        "5 additional min. will be played."
+      ],
+      [
+        "90+5",
+        "Jarell Quansah (Liverpool) commits an ugly challenge. The referee sees it and immediately blows his whistle. Chelsea are awarded a penalty kick!"
+      ],
+      [
+        "90+6",
+        "Cole Palmer (Chelsea) will take the responsibility and he is already preparing the ball."
+      ],
+      [
+        "90+8",
+        "The referee checks his watch and blows his whistle to signal the end of this match."
+      ],
+      [
+        "90+6",
+        "Goal! Cole Palmer (Chelsea) puts the ball into the bottom left corner past the outstretched arm of Alisson."
+      ],
+      [
+        "90+3",
+        "Liverpool control the tempo of the game by exchanging some accurate short passes."
+      ],
+      [
+        "90",
+        "Chelsea take the corner, but their hopes of scoring a goal end with a nice clearance by the defence."
+      ],
+      [
+        "87",
+        "Pedro Neto (Chelsea) controls a nice low pass and shoots from just outside the box, but it's a poor effort that flies into the stands. Wasted opportunity! The ball goes out of play and Liverpool will have a goal kick."
+      ],
+      [
+        "85",
+        "The score has changed – 2:1. Alexis Mac Allister sends a fantastic cross into the box from the corner. Virgil van Dijk (Liverpool) jumps highest and plants a header down inside the right post."
+      ],
+      [
+        "84",
+        "Alexis Mac Allister (Liverpool) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick."
+      ],
+      [
+        "82",
+        "Konstantinos Tsimikas will be replaced by Federico Chiesa (Liverpool)."
+      ],
+      [
+        "80",
+        "Excellent touch by Jadon Sancho (Chelsea)! He latches on to a precise pass deep into the box and produces a low drive towards the right post. The goalkeeper pulls off a beautiful save to deny him."
+      ],
+      [
+        "78",
+        "Enzo Maresca has decided to substitute Romeo Lavia and he is replaced by Malo Gusto (Chelsea)."
+      ],
+      [
+        "76",
+        "A fantastic block by a defender means that the corner from Liverpool comes to nothing."
+      ],
+      [
+        "74",
+        "Pedro Neto (Chelsea) races towards goal but the defender gets back well to make a challenge."
+      ],
+      [
+        "72",
+        "The referee allows time for a substitution. Nicolas Jackson will be replaced by Jadon Sancho (Chelsea)."
+      ],
+      [
+        "69",
+        "Arne Slot prepares a substitution. Wataru Endo is replaced by Alexis Mac Allister (Liverpool)."
+      ],
+      [
+        "68",
+        "Darwin Nunez (Liverpool) tries to get on the end of a cross in a crowded box, but under pressure his header from near the penalty spot slips well wide of the right post. The ball is off of the pitch and it's a goal kick for Chelsea."
+      ],
+      [
+        "66",
+        "Cody Gakpo (Liverpool) crosses the ball into the box, but one of the defending players averts the threat. Liverpool win a corner."
+      ],
+      [
+        "65",
+        "Romeo Lavia (Chelsea) should know this behaviour is beyond the rules. He was too careless with his challenge and left Simon Hooper no option but to blow his whistle. Liverpool are awarded a free kick from a dangerous position."
+      ],
+      [
+        "63",
+        "Konstantinos Tsimikas (Liverpool) will deliver the ball into the penalty box from a corner kick."
+      ],
+      [
+        "60",
+        "A cross by Pedro Neto (Chelsea) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor. The ball goes out of play and Liverpool will have a goal kick."
+      ],
+      [
+        "58",
+        "Arne Slot has decided to make a change. Darwin Nunez (Liverpool) replaces Diogo Jota."
+      ],
+      [
+        "56",
+        "Jarell Quansah (Liverpool) has scored a goal! Unfortunately for him and his teammates it's an own goal."
+      ],
+      [
+        "52",
+        "Nicolas Jackson (Chelsea) is caught offside after the linesman raises his flag."
+      ],
+      [
+        "48",
+        "A sweeping move ends with a pass to Nicolas Jackson (Chelsea) inside the box. He lets fly low towards the middle of the goal, but Alisson was watching it all the way and makes a comfortable save."
+      ],
+      [
+        "46",
+        "Referee Simon Hooper blows his whistle to start the second half."
+      ],
+      [
+        "45",
+        "The fourth official shows 1 min. of added time."
+      ],
+      [
+        "43",
+        "A goal, which was scored by Noni Madueke (Chelsea), was disallowed due to offside."
+      ],
+      [
+        "40",
+        "The Liverpool players are exchanging short passes in an attempt to create a shooting opportunity."
+      ],
+      [
+        "36",
+        "The corner from Trent Alexander-Arnold (Liverpool) is intercepted by Robert Sanchez."
+      ],
+      [
+        "34",
+        "Enzo Fernandez (Chelsea) commits a foul and Simon Hooper immediately signals a free kick."
+      ],
+      [
+        "31",
+        "The corner from Enzo Fernandez (Chelsea) is hurriedly cleared."
+      ],
+      [
+        "31",
+        "The resulting corner from Enzo Fernandez (Chelsea) is cleared by the defence."
+      ],
+      [
+        "29",
+        "Trent Alexander-Arnold (Liverpool) fires the ball at goal from inside the area, but it's well blocked."
+      ],
+      [
+        "25",
+        "A cross from a mid-range free kick, taken by Liverpool, is intercepted by one of the defenders."
+      ],
+      [
+        "23",
+        "Long passes, short passes and one-two passes. Liverpool are showcasing great team work by keeping possession and producing pin-point passes from player to player. The opposition's players are finding it very difficult to intercept at the moment."
+      ],
+      [
+        "19",
+        "Chelsea are bossing possession at the moment by exchanging some precise passes from player to player."
+      ],
+      [
+        "16",
+        "Enzo Fernandez (Chelsea) gets on the end of a lofted pass near the penalty spot, but it's a poor header and drifts high over the bar. The ball goes out of play and Liverpool will have a goal kick."
+      ],
+      [
+        "11",
+        "Trent Alexander-Arnold (Liverpool) attempts to release Mohamed Salah with a through ball, but his effort is thwarted by one of the defending players."
+      ],
+      [
+        "9",
+        "What a wasted opportunity by Cody Gakpo (Liverpool)! He creates some space for himself inside the penalty box and unleashes a decent strike towards the right side of the goal, but Robert Sanchez makes an astonishing save to thwart him."
+      ],
+      [
+        "6",
+        "A great run from Noni Madueke (Chelsea) ends with a shot inside the box that flashes just past the right post. The ball is off of the pitch and it's a goal kick for Liverpool."
+      ],
+      [
+        "1",
+        "A pass from Mohamed Salah (Liverpool) is intercepted by Robert Sanchez and the move breaks down."
+      ],
+      [
+        "0",
+        "Liverpool will kick the game off."
+      ],
+      [
+        "Show lineups",
+        "Both teams starting lineups are available now, so you can have a look at them."
+      ]
+    ],
+    "man_of_the_match": "Noni Madueke (Chelsea)"
+  }
+]

@@ -1,0 +1,1952 @@
+[
+  {
+    "statistics": {
+      "full_time": [
+        {
+          "label": "Expected Goals (xG)",
+          "home_value": "1.44",
+          "away_value": "2.41"
+        },
+        {
+          "label": "Ball Possession",
+          "home_value": "73%",
+          "away_value": "27%"
+        },
+        {
+          "label": "Total shots",
+          "home_value": "17",
+          "away_value": "13"
+        },
+        {
+          "label": "Shots on target",
+          "home_value": "8",
+          "away_value": "7"
+        },
+        {
+          "label": "Big Chances",
+          "home_value": "2",
+          "away_value": "4"
+        },
+        {
+          "label": "Corner Kicks",
+          "home_value": "6",
+          "away_value": "7"
+        },
+        {
+          "label": "Passes",
+          "home_value": "91%(549/601)",
+          "away_value": "75%(165/219)"
+        },
+        {
+          "label": "Expected Goals (xG)",
+          "home_value": "1.44",
+          "away_value": "2.41"
+        },
+        {
+          "label": "xG on target (xGOT)",
+          "home_value": "2.12",
+          "away_value": "2.92"
+        },
+        {
+          "label": "Total shots",
+          "home_value": "17",
+          "away_value": "13"
+        },
+        {
+          "label": "Shots on target",
+          "home_value": "8",
+          "away_value": "7"
+        },
+        {
+          "label": "Shots off target",
+          "home_value": "4",
+          "away_value": "4"
+        },
+        {
+          "label": "Blocked Shots",
+          "home_value": "5",
+          "away_value": "2"
+        },
+        {
+          "label": "Shots inside the Box",
+          "home_value": "11",
+          "away_value": "8"
+        },
+        {
+          "label": "Shots outside the Box",
+          "home_value": "6",
+          "away_value": "5"
+        },
+        {
+          "label": "Hit the Woodwork",
+          "home_value": "0",
+          "away_value": "0"
+        },
+        {
+          "label": "Big Chances",
+          "home_value": "2",
+          "away_value": "4"
+        },
+        {
+          "label": "Corner Kicks",
+          "home_value": "6",
+          "away_value": "7"
+        },
+        {
+          "label": "Touches in opposition box",
+          "home_value": "25",
+          "away_value": "18"
+        },
+        {
+          "label": "Accurate through passes",
+          "home_value": "2",
+          "away_value": "1"
+        },
+        {
+          "label": "Offsides",
+          "home_value": "2",
+          "away_value": "7"
+        },
+        {
+          "label": "Free Kicks",
+          "home_value": "12",
+          "away_value": "8"
+        },
+        {
+          "label": "Passes",
+          "home_value": "91%(549/601)",
+          "away_value": "75%(165/219)"
+        },
+        {
+          "label": "Long passes",
+          "home_value": "62%(13/21)",
+          "away_value": "45%(19/42)"
+        },
+        {
+          "label": "Passes in final third",
+          "home_value": "81%(122/150)",
+          "away_value": "68%(45/66)"
+        },
+        {
+          "label": "Crosses",
+          "home_value": "19%(5/26)",
+          "away_value": "21%(3/14)"
+        },
+        {
+          "label": "Expected assists (xA)",
+          "home_value": "1.63",
+          "away_value": "1.07"
+        },
+        {
+          "label": "Throw-ins",
+          "home_value": "9",
+          "away_value": "7"
+        },
+        {
+          "label": "Fouls",
+          "home_value": "8",
+          "away_value": "12"
+        },
+        {
+          "label": "Tackles",
+          "home_value": "100%(10/10)",
+          "away_value": "58%(7/12)"
+        },
+        {
+          "label": "Duels won",
+          "home_value": "44",
+          "away_value": "33"
+        },
+        {
+          "label": "Clearances",
+          "home_value": "14",
+          "away_value": "37"
+        },
+        {
+          "label": "Interceptions",
+          "home_value": "6",
+          "away_value": "3"
+        },
+        {
+          "label": "Errors leading to shot",
+          "home_value": "1",
+          "away_value": "0"
+        },
+        {
+          "label": "Errors leading to goal",
+          "home_value": "0",
+          "away_value": "0"
+        },
+        {
+          "label": "Goalkeeper Saves",
+          "home_value": "4",
+          "away_value": "7"
+        },
+        {
+          "label": "xGOT faced",
+          "home_value": "2.92",
+          "away_value": "2.12"
+        },
+        {
+          "label": "Goals prevented",
+          "home_value": "-0.08",
+          "away_value": "1.12"
+        }
+      ],
+      "1st_half": [
+        {
+          "label": "Expected Goals (xG)",
+          "home_value": "0.41",
+          "away_value": "0.80"
+        },
+        {
+          "label": "Ball Possession",
+          "home_value": "70%",
+          "away_value": "30%"
+        },
+        {
+          "label": "Total shots",
+          "home_value": "10",
+          "away_value": "4"
+        },
+        {
+          "label": "Shots on target",
+          "home_value": "3",
+          "away_value": "2"
+        },
+        {
+          "label": "Big Chances",
+          "home_value": "1",
+          "away_value": "1"
+        },
+        {
+          "label": "Corner Kicks",
+          "home_value": "3",
+          "away_value": "2"
+        },
+        {
+          "label": "Passes",
+          "home_value": "93%(287/310)",
+          "away_value": "77%(102/133)"
+        },
+        {
+          "label": "Expected Goals (xG)",
+          "home_value": "0.41",
+          "away_value": "0.80"
+        },
+        {
+          "label": "xG on target (xGOT)",
+          "home_value": "0.36",
+          "away_value": "0.59"
+        },
+        {
+          "label": "Total shots",
+          "home_value": "10",
+          "away_value": "4"
+        },
+        {
+          "label": "Shots on target",
+          "home_value": "3",
+          "away_value": "2"
+        },
+        {
+          "label": "Shots off target",
+          "home_value": "4",
+          "away_value": "2"
+        },
+        {
+          "label": "Blocked Shots",
+          "home_value": "3",
+          "away_value": "0"
+        },
+        {
+          "label": "Shots inside the Box",
+          "home_value": "6",
+          "away_value": "3"
+        },
+        {
+          "label": "Shots outside the Box",
+          "home_value": "4",
+          "away_value": "1"
+        },
+        {
+          "label": "Hit the Woodwork",
+          "home_value": "0",
+          "away_value": "0"
+        },
+        {
+          "label": "Big Chances",
+          "home_value": "1",
+          "away_value": "1"
+        },
+        {
+          "label": "Corner Kicks",
+          "home_value": "3",
+          "away_value": "2"
+        },
+        {
+          "label": "Touches in opposition box",
+          "home_value": "14",
+          "away_value": "6"
+        },
+        {
+          "label": "Accurate through passes",
+          "home_value": "1",
+          "away_value": "1"
+        },
+        {
+          "label": "Offsides",
+          "home_value": "1",
+          "away_value": "3"
+        },
+        {
+          "label": "Free Kicks",
+          "home_value": "6",
+          "away_value": "5"
+        },
+        {
+          "label": "Passes",
+          "home_value": "93%(287/310)",
+          "away_value": "77%(102/133)"
+        },
+        {
+          "label": "Long passes",
+          "home_value": "55%(6/11)",
+          "away_value": "50%(13/26)"
+        },
+        {
+          "label": "Passes in final third",
+          "home_value": "76%(50/66)",
+          "away_value": "62%(18/29)"
+        },
+        {
+          "label": "Crosses",
+          "home_value": "33%(4/12)",
+          "away_value": "0%(0/6)"
+        },
+        {
+          "label": "Expected assists (xA)",
+          "home_value": "0.51",
+          "away_value": "0.45"
+        },
+        {
+          "label": "Throw-ins",
+          "home_value": "5",
+          "away_value": "2"
+        },
+        {
+          "label": "Fouls",
+          "home_value": "5",
+          "away_value": "6"
+        },
+        {
+          "label": "Tackles",
+          "home_value": "100%(2/2)",
+          "away_value": "80%(4/5)"
+        },
+        {
+          "label": "Duels won",
+          "home_value": "18",
+          "away_value": "18"
+        },
+        {
+          "label": "Clearances",
+          "home_value": "6",
+          "away_value": "11"
+        },
+        {
+          "label": "Interceptions",
+          "home_value": "3",
+          "away_value": "2"
+        },
+        {
+          "label": "Errors leading to shot",
+          "home_value": "0",
+          "away_value": "0"
+        },
+        {
+          "label": "Errors leading to goal",
+          "home_value": "0",
+          "away_value": "0"
+        },
+        {
+          "label": "Goalkeeper Saves",
+          "home_value": "2",
+          "away_value": "3"
+        },
+        {
+          "label": "xGOT faced",
+          "home_value": "0.59",
+          "away_value": "0.36"
+        },
+        {
+          "label": "Goals prevented",
+          "home_value": "0.59",
+          "away_value": "0.36"
+        }
+      ],
+      "2nd_half": [
+        {
+          "label": "Expected Goals (xG)",
+          "home_value": "1.03",
+          "away_value": "1.61"
+        },
+        {
+          "label": "Ball Possession",
+          "home_value": "76%",
+          "away_value": "24%"
+        },
+        {
+          "label": "Total shots",
+          "home_value": "7",
+          "away_value": "9"
+        },
+        {
+          "label": "Shots on target",
+          "home_value": "5",
+          "away_value": "5"
+        },
+        {
+          "label": "Big Chances",
+          "home_value": "1",
+          "away_value": "3"
+        },
+        {
+          "label": "Corner Kicks",
+          "home_value": "3",
+          "away_value": "5"
+        },
+        {
+          "label": "Passes",
+          "home_value": "90%(262/291)",
+          "away_value": "73%(63/86)"
+        },
+        {
+          "label": "Expected Goals (xG)",
+          "home_value": "1.03",
+          "away_value": "1.61"
+        },
+        {
+          "label": "xG on target (xGOT)",
+          "home_value": "1.76",
+          "away_value": "2.33"
+        },
+        {
+          "label": "Total shots",
+          "home_value": "7",
+          "away_value": "9"
+        },
+        {
+          "label": "Shots on target",
+          "home_value": "5",
+          "away_value": "5"
+        },
+        {
+          "label": "Shots off target",
+          "home_value": "0",
+          "away_value": "2"
+        },
+        {
+          "label": "Blocked Shots",
+          "home_value": "2",
+          "away_value": "2"
+        },
+        {
+          "label": "Shots inside the Box",
+          "home_value": "5",
+          "away_value": "5"
+        },
+        {
+          "label": "Shots outside the Box",
+          "home_value": "2",
+          "away_value": "4"
+        },
+        {
+          "label": "Hit the Woodwork",
+          "home_value": "0",
+          "away_value": "0"
+        },
+        {
+          "label": "Big Chances",
+          "home_value": "1",
+          "away_value": "3"
+        },
+        {
+          "label": "Corner Kicks",
+          "home_value": "3",
+          "away_value": "5"
+        },
+        {
+          "label": "Touches in opposition box",
+          "home_value": "11",
+          "away_value": "12"
+        },
+        {
+          "label": "Accurate through passes",
+          "home_value": "1",
+          "away_value": "0"
+        },
+        {
+          "label": "Offsides",
+          "home_value": "1",
+          "away_value": "4"
+        },
+        {
+          "label": "Free Kicks",
+          "home_value": "6",
+          "away_value": "3"
+        },
+        {
+          "label": "Passes",
+          "home_value": "90%(262/291)",
+          "away_value": "73%(63/86)"
+        },
+        {
+          "label": "Long passes",
+          "home_value": "70%(7/10)",
+          "away_value": "38%(6/16)"
+        },
+        {
+          "label": "Passes in final third",
+          "home_value": "86%(72/84)",
+          "away_value": "73%(27/37)"
+        },
+        {
+          "label": "Crosses",
+          "home_value": "7%(1/14)",
+          "away_value": "38%(3/8)"
+        },
+        {
+          "label": "Expected assists (xA)",
+          "home_value": "1.12",
+          "away_value": "0.62"
+        },
+        {
+          "label": "Throw-ins",
+          "home_value": "4",
+          "away_value": "5"
+        },
+        {
+          "label": "Fouls",
+          "home_value": "3",
+          "away_value": "6"
+        },
+        {
+          "label": "Tackles",
+          "home_value": "100%(8/8)",
+          "away_value": "43%(3/7)"
+        },
+        {
+          "label": "Duels won",
+          "home_value": "26",
+          "away_value": "15"
+        },
+        {
+          "label": "Clearances",
+          "home_value": "8",
+          "away_value": "26"
+        },
+        {
+          "label": "Interceptions",
+          "home_value": "3",
+          "away_value": "1"
+        },
+        {
+          "label": "Errors leading to shot",
+          "home_value": "1",
+          "away_value": "0"
+        },
+        {
+          "label": "Errors leading to goal",
+          "home_value": "0",
+          "away_value": "0"
+        },
+        {
+          "label": "Goalkeeper Saves",
+          "home_value": "2",
+          "away_value": "4"
+        },
+        {
+          "label": "xGOT faced",
+          "home_value": "2.33",
+          "away_value": "1.76"
+        },
+        {
+          "label": "Goals prevented",
+          "home_value": "-0.67",
+          "away_value": "0.76"
+        }
+      ]
+    },
+    "commentary": [
+      [
+        "0",
+        "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+      ],
+      [
+        "0",
+        "Yael Perez was nominated as the referee for this game."
+      ],
+      [
+        "1",
+        "The first half has started."
+      ],
+      [
+        "4",
+        "Cauly (Bahia) attempts to slip the ball through the defence, but is unable to find any of his teammates."
+      ],
+      [
+        "8",
+        "The Nacional players are exchanging fine passes and are waiting for an opportunity to start an attack, but here's a mistake and a loss of possession."
+      ],
+      [
+        "12",
+        "Everton Ribeiro (Bahia) fails to find any of his teammates inside the box as his pass is blocked."
+      ],
+      [
+        "13",
+        "A cross from a mid-range free kick, taken by Bahia, is intercepted by one of the defenders."
+      ],
+      [
+        "14",
+        "Erick (Bahia) outjumped his marker after a well-taken corner, but his header goes wide of the target."
+      ],
+      [
+        "19",
+        "Erick Pulga (Bahia) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked. Bahia will have a chance to score from a corner kick."
+      ],
+      [
+        "20",
+        "Jeremia Recoba (Club Nacional) hits a first-time volley towards goal from the edge of the penalty box, but his effort is way off target and the ball goes well wide of the right post."
+      ],
+      [
+        "23",
+        "Everton Ribeiro (Bahia) goes for goal, but slices it wide of the target."
+      ],
+      [
+        "24",
+        "Lucas Martin Villalba Jaume (Club Nacional) is down injured and the referee stops play so that he can receive medical treatment."
+      ],
+      [
+        "27",
+        "Yael Perez blows his whistle for a foul after Julian Camilo Millan Diaz (Club Nacional) hacks down one of his opponents. Another situation results in a direct free kick for Bahia."
+      ],
+      [
+        "31",
+        "It's unbelievable, Nicolas Lopez (Club Nacional) blows a huge opportunity! He is totally unmarked and fires a first-time shot towards goal from a few yards out, but Marcos Felipe reacts superbly to keep the ball out."
+      ],
+      [
+        "33",
+        "Willian Jose (Bahia) fails to beat the offside trap and the linesman puts his flag up."
+      ],
+      [
+        "39",
+        "A fantastic block by a defender means that the corner from Bahia comes to nothing."
+      ],
+      [
+        "41",
+        "Luis Mejia (Club Nacional) has picked up a minor injury, but it looks like he will be able to continue."
+      ],
+      [
+        "43",
+        "Luis Mejia pulls off a fantastic save! Willian Jose (Bahia) attempts to head home after a precise cross into the box. He aims his header towards the left post, but the effort is kept out."
+      ],
+      [
+        "45",
+        "We will have 2 min. of added time."
+      ],
+      [
+        "45+3",
+        "The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match."
+      ],
+      [
+        "47",
+        "Goal! Jean Lucas (Bahia) takes a short pass from Willian Jose in his stride in the box, jinks inside his man and unleashes an unstoppable shot into the bottom right corner. 1:0."
+      ],
+      [
+        "53",
+        "Nicolas Lopez (Club Nacional) tries to slide the ball through to a teammate but it's well blocked by a defender."
+      ],
+      [
+        "54",
+        "Nicolas Lopez (Club Nacional) is flagged for offside."
+      ],
+      [
+        "56",
+        "Luciano Boggio (Club Nacional) takes the corner, but the opposition's defence is ready and clears the ball to safety."
+      ],
+      [
+        "57",
+        "What a hit! Lucas Morales (Club Nacional) shows good composure inside the box to fire a first-time shot inside the left post. 1:1."
+      ],
+      [
+        "61",
+        "Nicolas Lopez (Club Nacional) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The ball is out of play. Nacional will have a chance to score from a corner."
+      ],
+      [
+        "62",
+        "A good clearance by a defender means the corner comes to nothing for Nacional."
+      ],
+      [
+        "62",
+        "Nicolas Lopez (Club Nacional) unleashes a decent shot towards the roof of the net, but Marcos Felipe thwarts him with a nice save."
+      ],
+      [
+        "63",
+        "A cross from the corner kick arrives at the feet of Luciano Boggio (Club Nacional), giving him an opportunity to shoot. He misses completely, well to the right of the goal."
+      ],
+      [
+        "66",
+        "Lucas Martin Villalba Jaume (Club Nacional) is adjudged to have been offside when making his run."
+      ],
+      [
+        "69",
+        "GOAL! Lucas Martin Villalba Jaume finds himself with the ball at his feet in space after a lightning counter attack. He looks and up slides the ball to Nicolas Lopez (Club Nacional), who coolly slots the ball past the keeper from close in. It’s 1:2."
+      ],
+      [
+        "73",
+        "Erick Pulga (Bahia) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+      ],
+      [
+        "76",
+        "Lucas Morales (Club Nacional) has picked up an injury and is replaced by Nicolas Rodriguez."
+      ],
+      [
+        "82",
+        "A pass lands at the feet of Willian Jose (Bahia) in the middle of the box, he looks up and shoots but the effort is superbly blocked by a defender. The ball goes out of play. Bahia are awarded a corner kick."
+      ],
+      [
+        "83",
+        "Bahia fail to score from a corner as Luis Mejia (Club Nacional) leaps to collect the ball."
+      ],
+      [
+        "84",
+        "Here is a change. Jean Lucas is going off and Rogerio Ceni gives the last tactical orders to Luciano Rodriguez (Bahia)."
+      ],
+      [
+        "86",
+        "Goal! Lucas Martin Villalba Jaume puts the ball on a plate for Julian Camilo Millan Diaz (Club Nacional), who scores with a simple close-range finish. It's 1:3."
+      ],
+      [
+        "90",
+        "Rogerio Ceni has decided to make a change. Kayky (Bahia) replaces Erick Pulga."
+      ],
+      [
+        "90",
+        "There will be a minimum of 5 min. of added time."
+      ],
+      [
+        "90+4",
+        "Luis Mejia blocks Rodrigo (Bahia)'s effort from the edge of the box."
+      ],
+      [
+        "90+4",
+        "Luis Mejia makes a miraculous save! Willian Jose (Bahia) gets to a rebound and attempts to put it into the bottom right corner, but the goalkeeper dives to stop his effort."
+      ],
+      [
+        "90+5",
+        "A corner kick by Bahia is thwarted by the well prepared Luis Mejia (Club Nacional)."
+      ],
+      [
+        "90+6",
+        "That's the end of the match."
+      ],
+      [
+        "90+4",
+        "Bahia failed to take advantage of the corner as the opposition's defence was alert and averted the threat. Good work from Bahia as they win a corner."
+      ],
+      [
+        "90+4",
+        "Willian Jose (Bahia) is unlucky with a goal-bound effort from the edge of the box. A fortuitous save from Luis Mejia stops the ball from going into the middle of the goal."
+      ],
+      [
+        "90+2",
+        "Kayky (Bahia) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence."
+      ],
+      [
+        "90",
+        "The linesman raises his flag. Diego Romero (Club Nacional) is adjudged offside."
+      ],
+      [
+        "90",
+        "Substitution. Rodrigo (Bahia) replaces Caio Alexandre."
+      ],
+      [
+        "84",
+        "We are about to witness a subsitution. Michel Araujo (Bahia) for Erick."
+      ],
+      [
+        "84",
+        "Nicolas Lopez (Club Nacional) unleashes a decent shot towards goal from long range, but his effort just misses the target."
+      ],
+      [
+        "82",
+        "The referee stops play so that a substitution can be made and Christian Oliva trots off the pitch and is replaced by Yonatan Rodriguez (Club Nacional)."
+      ],
+      [
+        "79",
+        "Ademir (Bahia) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+      ],
+      [
+        "74",
+        "Christian Oliva (Club Nacional) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+      ],
+      [
+        "72",
+        "Ademir (Bahia) tries to send a pass but it's blocked."
+      ],
+      [
+        "68",
+        "Diego Romero (Club Nacional) tries to latch onto a through ball, but it's too long."
+      ],
+      [
+        "64",
+        "Substitution. Everton Ribeiro walks off the pitch and Ademir (Bahia) comes on as a substitute."
+      ],
+      [
+        "63",
+        "Nacional force their opponents to concede a corner."
+      ],
+      [
+        "62",
+        "Diego Romero (Club Nacional) has a great chance inside the six-yard box, shoots low to the middle of the goal, but Marcos Felipe pulls off an exquisite save to deny him."
+      ],
+      [
+        "61",
+        "Pablo Peirano has decided to substitute Jeremia Recoba and he is replaced by Diego Romero (Club Nacional)."
+      ],
+      [
+        "60",
+        "Everton Ribeiro (Bahia) sends the ball into the box from the side of the pitch, but his cross is blocked."
+      ],
+      [
+        "57",
+        "Corner kick. Nicolas Lopez (Club Nacional) is ready to send the ball into the box."
+      ],
+      [
+        "55",
+        "Erick (Bahia) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat."
+      ],
+      [
+        "53",
+        "It will be a corner kick for Nacional."
+      ],
+      [
+        "51",
+        "That's an easy save for Luis Mejia, following a first time shot towards the middle of the goal from Erick Pulga (Bahia)."
+      ],
+      [
+        "46",
+        "The whistle blows and Yael Perez starts the second half."
+      ],
+      [
+        "45+2",
+        "Caio Alexandre (Bahia) strikes a shot towards goal from the edge of the penalty box, but it flies just wide of the left post."
+      ],
+      [
+        "45",
+        "Nicolas Lopez (Club Nacional) fires a powerful volley towards goal, but his shot lacks accuracy and is comfortably saved by the goalkeeper."
+      ],
+      [
+        "42",
+        "Flag up against Nicolas Lopez (Club Nacional). He had space to move into behind the defence, but he went too soon."
+      ],
+      [
+        "41",
+        "The game is interrupted now, Luis Mejia (Club Nacional) picks up a knock and the physio has to come on."
+      ],
+      [
+        "36",
+        "Willian Jose (Bahia) unleashes a shot, but it's well wide of the right-hand post."
+      ],
+      [
+        "31",
+        "Nacional can’t profit from the corner as the defence clear the ball upfield."
+      ],
+      [
+        "28",
+        "Luciano Juba (Bahia) poorly executes the free kick and the ball only hits the wall."
+      ],
+      [
+        "25",
+        "Lucas Martin Villalba Jaume (Club Nacional) is able to continue to play."
+      ],
+      [
+        "23",
+        "Flag goes up against Nicolas Lopez (Club Nacional) and the referee blows his whistle for offside."
+      ],
+      [
+        "22",
+        "Nicolas Lopez (Club Nacional) commits a foul and Yael Perez immediately signals a free kick."
+      ],
+      [
+        "19",
+        "The resulting set piece from Bahia is comfortably intercepted by one of the defending players."
+      ],
+      [
+        "18",
+        "Nicolas Lopez (Club Nacional) steps up to take the corner, but the ball just sails in among the defenders."
+      ],
+      [
+        "14",
+        "Bahia will take a corner kick."
+      ],
+      [
+        "13",
+        "Referee Yael Perez sees the trip by Nicolas Lopez (Club Nacional) and doesn't hesitate to blow his whistle. Bahia have a free kick."
+      ],
+      [
+        "11",
+        "Luis Mejia displays his ability to read the game and clears the danger after Jean Lucas (Bahia) threatened to latch onto a through ball from just outside the box. The ball is off of the pitch and it's a goal kick for Nacional."
+      ],
+      [
+        "5",
+        "Lucas Morales (Club Nacional) unleashes a first-time shot which stings the gloves of the goalkeeper."
+      ],
+      [
+        "2",
+        "The linesman raises his flag for offside before Nicolas Lopez (Club Nacional) heads on."
+      ],
+      [
+        "0",
+        "Nacional will kick-off."
+      ],
+      [
+        "Show lineups",
+        "Both teams starting lineups are available now, so you can have a look at them."
+      ]
+    ]
+  },
+  {
+    "statistics": {
+      "full_time": [
+        {
+          "label": "Expected Goals (xG)",
+          "home_value": "4.52",
+          "away_value": "1.59"
+        },
+        {
+          "label": "Ball Possession",
+          "home_value": "76%",
+          "away_value": "24%"
+        },
+        {
+          "label": "Total shots",
+          "home_value": "39",
+          "away_value": "8"
+        },
+        {
+          "label": "Shots on target",
+          "home_value": "10",
+          "away_value": "3"
+        },
+        {
+          "label": "Big Chances",
+          "home_value": "8",
+          "away_value": "3"
+        },
+        {
+          "label": "Corner Kicks",
+          "home_value": "9",
+          "away_value": "1"
+        },
+        {
+          "label": "Passes",
+          "home_value": "91%(522/574)",
+          "away_value": "68%(131/193)"
+        },
+        {
+          "label": "Yellow Cards",
+          "home_value": "1",
+          "away_value": "4"
+        },
+        {
+          "label": "Red Cards",
+          "home_value": "1",
+          "away_value": "1"
+        },
+        {
+          "label": "Expected Goals (xG)",
+          "home_value": "4.52",
+          "away_value": "1.59"
+        },
+        {
+          "label": "xG on target (xGOT)",
+          "home_value": "3.47",
+          "away_value": "1.98"
+        },
+        {
+          "label": "Total shots",
+          "home_value": "39",
+          "away_value": "8"
+        },
+        {
+          "label": "Shots on target",
+          "home_value": "10",
+          "away_value": "3"
+        },
+        {
+          "label": "Shots off target",
+          "home_value": "22",
+          "away_value": "5"
+        },
+        {
+          "label": "Blocked Shots",
+          "home_value": "7",
+          "away_value": "0"
+        },
+        {
+          "label": "Shots inside the Box",
+          "home_value": "18",
+          "away_value": "4"
+        },
+        {
+          "label": "Shots outside the Box",
+          "home_value": "21",
+          "away_value": "4"
+        },
+        {
+          "label": "Hit the Woodwork",
+          "home_value": "2",
+          "away_value": "1"
+        },
+        {
+          "label": "Big Chances",
+          "home_value": "8",
+          "away_value": "3"
+        },
+        {
+          "label": "Corner Kicks",
+          "home_value": "9",
+          "away_value": "1"
+        },
+        {
+          "label": "Touches in opposition box",
+          "home_value": "42",
+          "away_value": "8"
+        },
+        {
+          "label": "Accurate through passes",
+          "home_value": "0",
+          "away_value": "0"
+        },
+        {
+          "label": "Offsides",
+          "home_value": "3",
+          "away_value": "0"
+        },
+        {
+          "label": "Free Kicks",
+          "home_value": "6",
+          "away_value": "2"
+        },
+        {
+          "label": "Passes",
+          "home_value": "91%(522/574)",
+          "away_value": "68%(131/193)"
+        },
+        {
+          "label": "Long passes",
+          "home_value": "71%(37/52)",
+          "away_value": "35%(22/62)"
+        },
+        {
+          "label": "Passes in final third",
+          "home_value": "85%(181/214)",
+          "away_value": "45%(24/53)"
+        },
+        {
+          "label": "Crosses",
+          "home_value": "25%(14/56)",
+          "away_value": "17%(1/6)"
+        },
+        {
+          "label": "Expected assists (xA)",
+          "home_value": "3.47",
+          "away_value": "0.19"
+        },
+        {
+          "label": "Throw-ins",
+          "home_value": "26",
+          "away_value": "15"
+        },
+        {
+          "label": "Fouls",
+          "home_value": "2",
+          "away_value": "6"
+        },
+        {
+          "label": "Tackles",
+          "home_value": "68%(13/19)",
+          "away_value": "75%(12/16)"
+        },
+        {
+          "label": "Duels won",
+          "home_value": "51",
+          "away_value": "46"
+        },
+        {
+          "label": "Clearances",
+          "home_value": "3",
+          "away_value": "52"
+        },
+        {
+          "label": "Interceptions",
+          "home_value": "13",
+          "away_value": "6"
+        },
+        {
+          "label": "Errors leading to shot",
+          "home_value": "0",
+          "away_value": "1"
+        },
+        {
+          "label": "Errors leading to goal",
+          "home_value": "1",
+          "away_value": "0"
+        },
+        {
+          "label": "Goalkeeper Saves",
+          "home_value": "0",
+          "away_value": "8"
+        },
+        {
+          "label": "xGOT faced",
+          "home_value": "1.98",
+          "away_value": "3.47"
+        },
+        {
+          "label": "Goals prevented",
+          "home_value": "-1.02",
+          "away_value": "1.47"
+        }
+      ],
+      "1st_half": [
+        {
+          "label": "Expected Goals (xG)",
+          "home_value": "2.28",
+          "away_value": "0.70"
+        },
+        {
+          "label": "Ball Possession",
+          "home_value": "69%",
+          "away_value": "31%"
+        },
+        {
+          "label": "Total shots",
+          "home_value": "14",
+          "away_value": "5"
+        },
+        {
+          "label": "Shots on target",
+          "home_value": "1",
+          "away_value": "2"
+        },
+        {
+          "label": "Big Chances",
+          "home_value": "5",
+          "away_value": "1"
+        },
+        {
+          "label": "Corner Kicks",
+          "home_value": "2",
+          "away_value": "1"
+        },
+        {
+          "label": "Passes",
+          "home_value": "91%(247/272)",
+          "away_value": "68%(86/126)"
+        },
+        {
+          "label": "Yellow Cards",
+          "home_value": "1",
+          "away_value": "1"
+        },
+        {
+          "label": "Red Cards",
+          "home_value": "0",
+          "away_value": "1"
+        },
+        {
+          "label": "Expected Goals (xG)",
+          "home_value": "2.28",
+          "away_value": "0.70"
+        },
+        {
+          "label": "xG on target (xGOT)",
+          "home_value": "0.25",
+          "away_value": "1.05"
+        },
+        {
+          "label": "Total shots",
+          "home_value": "14",
+          "away_value": "5"
+        },
+        {
+          "label": "Shots on target",
+          "home_value": "1",
+          "away_value": "2"
+        },
+        {
+          "label": "Shots off target",
+          "home_value": "12",
+          "away_value": "3"
+        },
+        {
+          "label": "Blocked Shots",
+          "home_value": "1",
+          "away_value": "0"
+        },
+        {
+          "label": "Shots inside the Box",
+          "home_value": "8",
+          "away_value": "2"
+        },
+        {
+          "label": "Shots outside the Box",
+          "home_value": "7",
+          "away_value": "3"
+        },
+        {
+          "label": "Hit the Woodwork",
+          "home_value": "1",
+          "away_value": "0"
+        },
+        {
+          "label": "Big Chances",
+          "home_value": "5",
+          "away_value": "1"
+        },
+        {
+          "label": "Corner Kicks",
+          "home_value": "2",
+          "away_value": "1"
+        },
+        {
+          "label": "Touches in opposition box",
+          "home_value": "15",
+          "away_value": "4"
+        },
+        {
+          "label": "Accurate through passes",
+          "home_value": "0",
+          "away_value": "0"
+        },
+        {
+          "label": "Offsides",
+          "home_value": "2",
+          "away_value": "0"
+        },
+        {
+          "label": "Free Kicks",
+          "home_value": "3",
+          "away_value": "1"
+        },
+        {
+          "label": "Passes",
+          "home_value": "91%(247/272)",
+          "away_value": "68%(86/126)"
+        },
+        {
+          "label": "Long passes",
+          "home_value": "73%(19/26)",
+          "away_value": "36%(12/33)"
+        },
+        {
+          "label": "Passes in final third",
+          "home_value": "85%(75/88)",
+          "away_value": "45%(18/40)"
+        },
+        {
+          "label": "Crosses",
+          "home_value": "29%(5/17)",
+          "away_value": "25%(1/4)"
+        },
+        {
+          "label": "Expected assists (xA)",
+          "home_value": "1.68",
+          "away_value": "0.07"
+        },
+        {
+          "label": "Throw-ins",
+          "home_value": "12",
+          "away_value": "6"
+        },
+        {
+          "label": "Fouls",
+          "home_value": "1",
+          "away_value": "3"
+        },
+        {
+          "label": "Tackles",
+          "home_value": "67%(6/9)",
+          "away_value": "78%(7/9)"
+        },
+        {
+          "label": "Duels won",
+          "home_value": "22",
+          "away_value": "26"
+        },
+        {
+          "label": "Clearances",
+          "home_value": "2",
+          "away_value": "15"
+        },
+        {
+          "label": "Interceptions",
+          "home_value": "7",
+          "away_value": "3"
+        },
+        {
+          "label": "Errors leading to shot",
+          "home_value": "0",
+          "away_value": "1"
+        },
+        {
+          "label": "Errors leading to goal",
+          "home_value": "1",
+          "away_value": "0"
+        },
+        {
+          "label": "Goalkeeper Saves",
+          "home_value": "0",
+          "away_value": "1"
+        },
+        {
+          "label": "xGOT faced",
+          "home_value": "1.05",
+          "away_value": "0.25"
+        },
+        {
+          "label": "Goals prevented",
+          "home_value": "-0.95",
+          "away_value": "0.25"
+        }
+      ],
+      "2nd_half": [
+        {
+          "label": "Expected Goals (xG)",
+          "home_value": "2.24",
+          "away_value": "0.89"
+        },
+        {
+          "label": "Ball Possession",
+          "home_value": "83%",
+          "away_value": "17%"
+        },
+        {
+          "label": "Total shots",
+          "home_value": "25",
+          "away_value": "3"
+        },
+        {
+          "label": "Shots on target",
+          "home_value": "9",
+          "away_value": "1"
+        },
+        {
+          "label": "Big Chances",
+          "home_value": "3",
+          "away_value": "2"
+        },
+        {
+          "label": "Corner Kicks",
+          "home_value": "7",
+          "away_value": "0"
+        },
+        {
+          "label": "Passes",
+          "home_value": "91%(275/302)",
+          "away_value": "67%(45/67)"
+        },
+        {
+          "label": "Yellow Cards",
+          "home_value": "0",
+          "away_value": "3"
+        },
+        {
+          "label": "Red Cards",
+          "home_value": "1",
+          "away_value": "0"
+        },
+        {
+          "label": "Expected Goals (xG)",
+          "home_value": "2.24",
+          "away_value": "0.89"
+        },
+        {
+          "label": "xG on target (xGOT)",
+          "home_value": "3.22",
+          "away_value": "0.93"
+        },
+        {
+          "label": "Total shots",
+          "home_value": "25",
+          "away_value": "3"
+        },
+        {
+          "label": "Shots on target",
+          "home_value": "9",
+          "away_value": "1"
+        },
+        {
+          "label": "Shots off target",
+          "home_value": "10",
+          "away_value": "2"
+        },
+        {
+          "label": "Blocked Shots",
+          "home_value": "6",
+          "away_value": "0"
+        },
+        {
+          "label": "Shots inside the Box",
+          "home_value": "10",
+          "away_value": "2"
+        },
+        {
+          "label": "Shots outside the Box",
+          "home_value": "14",
+          "away_value": "1"
+        },
+        {
+          "label": "Hit the Woodwork",
+          "home_value": "1",
+          "away_value": "1"
+        },
+        {
+          "label": "Big Chances",
+          "home_value": "3",
+          "away_value": "2"
+        },
+        {
+          "label": "Corner Kicks",
+          "home_value": "7",
+          "away_value": "0"
+        },
+        {
+          "label": "Touches in opposition box",
+          "home_value": "27",
+          "away_value": "4"
+        },
+        {
+          "label": "Accurate through passes",
+          "home_value": "0",
+          "away_value": "0"
+        },
+        {
+          "label": "Offsides",
+          "home_value": "1",
+          "away_value": "0"
+        },
+        {
+          "label": "Free Kicks",
+          "home_value": "3",
+          "away_value": "1"
+        },
+        {
+          "label": "Passes",
+          "home_value": "91%(275/302)",
+          "away_value": "67%(45/67)"
+        },
+        {
+          "label": "Long passes",
+          "home_value": "69%(18/26)",
+          "away_value": "34%(10/29)"
+        },
+        {
+          "label": "Passes in final third",
+          "home_value": "84%(106/126)",
+          "away_value": "46%(6/13)"
+        },
+        {
+          "label": "Crosses",
+          "home_value": "23%(9/39)",
+          "away_value": "0%(0/2)"
+        },
+        {
+          "label": "Expected assists (xA)",
+          "home_value": "1.79",
+          "away_value": "0.12"
+        },
+        {
+          "label": "Throw-ins",
+          "home_value": "14",
+          "away_value": "9"
+        },
+        {
+          "label": "Fouls",
+          "home_value": "1",
+          "away_value": "3"
+        },
+        {
+          "label": "Tackles",
+          "home_value": "70%(7/10)",
+          "away_value": "71%(5/7)"
+        },
+        {
+          "label": "Duels won",
+          "home_value": "29",
+          "away_value": "20"
+        },
+        {
+          "label": "Clearances",
+          "home_value": "1",
+          "away_value": "37"
+        },
+        {
+          "label": "Interceptions",
+          "home_value": "6",
+          "away_value": "3"
+        },
+        {
+          "label": "Errors leading to shot",
+          "home_value": "0",
+          "away_value": "0"
+        },
+        {
+          "label": "Errors leading to goal",
+          "home_value": "0",
+          "away_value": "0"
+        },
+        {
+          "label": "Goalkeeper Saves",
+          "home_value": "0",
+          "away_value": "7"
+        },
+        {
+          "label": "xGOT faced",
+          "home_value": "0.93",
+          "away_value": "3.22"
+        },
+        {
+          "label": "Goals prevented",
+          "home_value": "-0.07",
+          "away_value": "1.22"
+        }
+      ]
+    },
+    "commentary": [
+      [
+        "0",
+        "Hello, welcome to our live play-by-play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+      ],
+      [
+        "0",
+        "Gery Vargas is the one to supervise the game today."
+      ],
+      [
+        "1",
+        "The first half has just begun."
+      ],
+      [
+        "2",
+        "Bryan Castillo (Dep. Tachira) receives a lofted pass from out wide and shoots from close range, but the ball flies way wide of the right-hand post. The ball goes out of play and LDU Quito will have a goal kick."
+      ],
+      [
+        "6",
+        "It looks like Bryan Josias Ramirez Leon (LDU Quito) saw red with that tackle. Gery Vargas won't tolerate such behaviour on the pitch and blows for a foul. A free kick to Dep. Tachira."
+      ],
+      [
+        "10",
+        "LDU Quito have a chance to score from a corner kick, but the ball is cleared by a defender."
+      ],
+      [
+        "13",
+        "Gery Vargas interrupts the game. One of the players from LDU Quito won the ball, but his effort is adjudged unfair. There is a free kick near the sideline to Dep. Tachira."
+      ],
+      [
+        "14",
+        "Leonel Quinonez (LDU Quito) sends a long ball in, but Jesus Camargo comfortably gathers the ball."
+      ],
+      [
+        "16",
+        "Goal! Bryan Josias Ramirez Leon plays a short, square pass into the path of Lisandro Alzugaray (LDU Quito), who bends a shot straight into the right side of the goal to make it 0:1. Fabulous goal!"
+      ],
+      [
+        "19",
+        "Juan Requena (Dep. Tachira) picks up the rebound from his own attempted pass and decides to shoot from mid-range. He shouldn't have bothered as the ball flies miles over the bar. The ball goes out of play and LDU Quito will have a goal kick."
+      ],
+      [
+        "21",
+        "The referee raises a red card that points straight to Bryan Josias Ramirez Leon (LDU Quito), who has to leave the pitch."
+      ],
+      [
+        "22",
+        "Fernando Cornejo (LDU Quito) is having a really tough time right now. We are about to find out how serious his injury is."
+      ],
+      [
+        "25",
+        "Bryan Castillo (Dep. Tachira) latches onto a lofted pass on the edge of the six-yard box, but powers a header just over the bar. The ball goes out of play and LDU Quito will have a goal kick."
+      ],
+      [
+        "28",
+        "A weak shot from the edge of the box by Juan Requena (Dep. Tachira) is easily saved by Gonzalo Valle."
+      ],
+      [
+        "29",
+        "Bryan Castillo (Dep. Tachira) escapes his marker to connect with a cross and heads towards the top of the net, but the keeper pulls off an excellent save to deny him. The ball goes out of play. Dep. Tachira are awarded a corner kick."
+      ],
+      [
+        "31",
+        "Daniel Saggiomo (Dep. Tachira) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it."
+      ],
+      [
+        "32",
+        "What a chance that is! Carlos Sosa (Dep. Tachira) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the right post. The ball goes out of play and LDU Quito will have a goal kick."
+      ],
+      [
+        "34",
+        "The LDU Quito players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break."
+      ],
+      [
+        "38",
+        "Daniel Saggiomo (Dep. Tachira) slides a pass forward, but one of the defenders cuts it out."
+      ],
+      [
+        "39",
+        "Carlos Sosa (Dep. Tachira) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety."
+      ],
+      [
+        "40",
+        "A cross into the box from Daniel Saggiomo (Dep. Tachira) is cleared."
+      ],
+      [
+        "43",
+        "Carlos Sosa (Dep. Tachira) swings in a cross, but the ball is cleared to safety by one of the defending players."
+      ],
+      [
+        "44",
+        "Carlos Sosa (Dep. Tachira) is about to take a corner kick."
+      ],
+      [
+        "45",
+        "We will have 4 min. of added time."
+      ],
+      [
+        "45+3",
+        "Roberto Rosales (Dep. Tachira) gets in a header from close range after a lofted pass, but the effort flies just over the bar. The ball is off of the pitch and it's a goal kick for LDU Quito."
+      ],
+      [
+        "45+5",
+        "The first half of today's match has just finished."
+      ],
+      [
+        "46",
+        "Edgar Perez Greco makes a switch. Lucas Cano (Dep. Tachira) is coming on in place of Juan Ortiz at the start of the second period."
+      ],
+      [
+        "47",
+        "Carlos Sosa (Dep. Tachira) flights in the cross, but the defender is alert and clears to safety."
+      ],
+      [
+        "48",
+        "Gonzalo Valle (LDU Quito) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+      ],
+      [
+        "55",
+        "Goal Alex Adrian Arce Barrios (LDU Quito)! Alex Adrian Arce Barrios (LDU Quito) was put through by Carlos Gruezo and he showed brilliant composure inside the box to bury the ball into the back of the net. 0:3."
+      ],
+      [
+        "57",
+        "Wasted opportunity. Juan Requena (Dep. Tachira) gets to the rebound inside the box and smashes the ball just wide of the right post. The ball is off of the pitch and it's a goal kick for LDU Quito."
+      ],
+      [
+        "60",
+        "Edgar Perez Greco has decided to make a change. Leandro Fioravanti (Dep. Tachira) replaces Juan Requena."
+      ],
+      [
+        "60",
+        "A good clearance by a defender means the corner comes to nothing for Dep. Tachira."
+      ],
+      [
+        "62",
+        "Maurice Cova (Dep. Tachira) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender."
+      ],
+      [
+        "65",
+        "Jean Castillo (Dep. Tachira) sends a cross into the box, but the opposition's defence clears the ball to safety."
+      ],
+      [
+        "67",
+        "Alex Adrian Arce Barrios (LDU Quito) attempts to surprise the keeper with a shot from distance, but it lacks accuracy and goes high over the crossbar. The ball is off of the pitch and it's a goal kick for Dep. Tachira."
+      ],
+      [
+        "67",
+        "Nelson Hernandez (Dep. Tachira) finds himself unmarked in the penalty box and gets himself on the end of a brilliant cross to smash the ball into the top left corner."
+      ],
+      [
+        "69",
+        "Pablo Sanchez prepares a substitution. Alex Adrian Arce Barrios is replaced by Michael Estrada (LDU Quito)."
+      ],
+      [
+        "72",
+        "Carlos Vivas (Dep. Tachira) fizzes over a cross which doesn't cause any problems. The ball is off of the pitch and it's a goal kick for LDU Quito."
+      ],
+      [
+        "74",
+        "The ball goes out of play. Dep. Tachira are awarded a corner kick."
+      ],
+      [
+        "77",
+        "The game is interrupted because of a yellow card that is shown to Carlos Gruezo (LDU Quito)."
+      ],
+      [
+        "79",
+        "One of the players from Dep. Tachira times his run too early and the referee blows his whistle for offside."
+      ],
+      [
+        "81",
+        "Diomar Diaz (Dep. Tachira) latches on to an accurate pass on the edge of the box and unleashes a strong shot towards the roof of the net, but his effort is denied by the well positioned keeper with a stunning save. Good work from Dep. Tachira as they win a corner."
+      ],
+      [
+        "82",
+        "Diomar Diaz (Dep. Tachira) sends a lofted cross into the box which is headed clear."
+      ],
+      [
+        "83",
+        "Pablo Sanchez has decided to introduce fresh legs, with Yeltzin Hernan Erique Villigua (LDU Quito) replacing Fernando Cornejo."
+      ],
+      [
+        "86",
+        "Jesus David Duarte Arias (Dep. Tachira) produces a ferocious strike from the edge of the box. His dangerous effort towards the right post is blocked by Gonzalo Valle, who pulls off a superb save to keep the ball out of the net. The referee signals a corner kick to Dep. Tachira."
+      ],
+      [
+        "88",
+        "Lucas Cano (Dep. Tachira) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat."
+      ],
+      [
+        "88",
+        "A fantastic block by a defender means that the corner from Dep. Tachira comes to nothing."
+      ],
+      [
+        "90",
+        "6 additional min. will be played."
+      ],
+      [
+        "90+1",
+        "Diomar Diaz (Dep. Tachira) is heading toward the corner flag to take the set piece."
+      ],
+      [
+        "90+5",
+        "Goal! Bryan Castillo (Dep. Tachira) beautifully controls a strongly hit pass from Nelson Hernandez inside the box. He cuts inside his marker and rifles the ball low into the middle of the goal. 2:3."
+      ],
+      [
+        "90+6",
+        "Carlos Vivas (Dep. Tachira) has earned a red card!"
+      ],
+      [
+        "90+9",
+        "The referee blows his whistle for the final time to end this match."
+      ],
+      [
+        "90+8",
+        "Dep. Tachira can’t profit from the corner as the defence clear the ball upfield."
+      ],
+      [
+        "90+6",
+        "Gery Vargas shows a yellow card to Gabriel Villamil (LDU Quito), who isn't surprised as the tackle was really hard and late."
+      ],
+      [
+        "90+4",
+        "Jesus David Duarte Arias (Dep. Tachira) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging. The ball goes out of play and LDU Quito will have a goal kick."
+      ],
+      [
+        "90+1",
+        "Jean Castillo (Dep. Tachira) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. Dep. Tachira force a corner. They send men into the box."
+      ],
+      [
+        "88",
+        "The main referee, Gery Vargas, is apparently not going to tolerate any discussions. Kevin Minda Ruales (LDU Quito) is given a yellow card for dissent."
+      ],
+      [
+        "88",
+        "Roberto Rosales (Dep. Tachira) whips a promising cross into the box, but the opposition's defence intercepts the ball. The ball is out of play. Dep. Tachira will have a chance to score from a corner."
+      ],
+      [
+        "87",
+        "The referee and one of his assistants signal for a corner kick to Dep. Tachira."
+      ],
+      [
+        "85",
+        "An attempted cross from Mauro Maidana (Dep. Tachira) is cleared."
+      ],
+      [
+        "82",
+        "Problems for Pablo Sanchez as Daniel Isai de la Cruz (LDU Quito) is not able to play anymore. His injury is too serious and Gabriel Villamil replaces him."
+      ],
+      [
+        "81",
+        "The resulting set piece from Dep. Tachira is comfortably intercepted by one of the defending players."
+      ],
+      [
+        "80",
+        "Diomar Diaz (Dep. Tachira) tries to send the ball in front of the goal, but the opposition's defence averts the threat."
+      ],
+      [
+        "77",
+        "Here comes a substitution. Diomar Diaz (Dep. Tachira) is brought on as a substitute for Maurice Cova."
+      ],
+      [
+        "77",
+        "Maurice Cova (Dep. Tachira) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal."
+      ],
+      [
+        "73",
+        "Lucas Cano (Dep. Tachira) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the right post. Gonzalo Valle is alert and denies him with a nice save. Now Dep. Tachira have a corner."
+      ],
+      [
+        "70",
+        "Mauro Maidana (Dep. Tachira) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety."
+      ],
+      [
+        "69",
+        "The referee signals that it is time for a substitution and Jesus David Duarte Arias (Dep. Tachira) comes onto the pitch so that Carlos Sosa can be given a rest."
+      ],
+      [
+        "67",
+        "Roberto Rosales (Dep. Tachira) tries to slide the ball through to a teammate but it's well blocked by a defender."
+      ],
+      [
+        "66",
+        "That's a well-taken pass by Jean Castillo (Dep. Tachira). He unleashes a strike from the edge of the box, but blazes it high over the bar. The ball is off of the pitch and it's a goal kick for LDU Quito."
+      ],
+      [
+        "64",
+        "A pass from Maurice Cova (Dep. Tachira) is intercepted by Gonzalo Valle and the move breaks down."
+      ],
+      [
+        "61",
+        "A cross from Carlos Sosa (Dep. Tachira) fails to reach the box as the defence clears the ball away to safety."
+      ],
+      [
+        "60",
+        "It's time for a substitution. That's the last involvement from Daniel Saggiomo as he is replaced by Jean Castillo (Dep. Tachira)."
+      ],
+      [
+        "58",
+        "A substitution has been made. Lisandro Alzugaray is replaced by Jose Quintero (LDU Quito)."
+      ],
+      [
+        "56",
+        "Roberto Rosales (Dep. Tachira) produces a poor pass. He attempts to get the ball into the box but it's hacked away."
+      ],
+      [
+        "51",
+        "Daniel Saggiomo (Dep. Tachira) slides a pass forward, but one of the defenders cuts it out."
+      ],
+      [
+        "48",
+        "Roberto Rosales (Dep. Tachira) leaps high to meet a lofted pass inside the six-yard box, but his header only flies onto the left post and away off it. The ball goes out of play and LDU Quito will have a goal kick."
+      ],
+      [
+        "47",
+        "Fernando Cornejo (LDU Quito) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player."
+      ],
+      [
+        "46",
+        "The referee blows his whistle to signal the start of the second half."
+      ],
+      [
+        "45+4",
+        "One of the defenders reacts at the last minute to brilliantly block a pass from Fernando Cornejo (LDU Quito)."
+      ],
+      [
+        "45+2",
+        "Dep. Tachira are playing possession football and controlling the game at present. They are exchanging inch-perfect passes from player to player, making it difficult for the opposition to win the ball."
+      ],
+      [
+        "44",
+        "Juan Requena (Dep. Tachira) receives a fine cross inside the box and attempts to score a goal, but his strike flies just a few inches over the bar. The ball is off of the pitch and it's a goal kick for LDU Quito."
+      ],
+      [
+        "43",
+        "Maurice Cova (Dep. Tachira) sends the ball into the box from the side of the pitch, but his cross is blocked. Dep. Tachira will take a corner kick."
+      ],
+      [
+        "41",
+        "Carlos Sosa (Dep. Tachira) runs onto a pass and from the edge of the box tries his luck with a dipping shot. Unfortunately for him, the effort fizzes just over the bar. The ball goes out of play and LDU Quito will have a goal kick."
+      ],
+      [
+        "39",
+        "Ambitious effort from Maurice Cova (Dep. Tachira). He finds himself in a great position after collecting a precise pass inside the penalty area and goes for goal, but it never troubles the goalkeeper and flies well over the bar. The ball is off of the pitch and it's a goal kick for LDU Quito."
+      ],
+      [
+        "38",
+        "Nelson Hernandez (Dep. Tachira) swings a cross into the box, but it's far too close to Gonzalo Valle, who smothers the ball."
+      ],
+      [
+        "37",
+        "Lisandro Alzugaray (LDU Quito) latches onto a brilliant cross and fires the ball towards goal, but his shot goes high over the crossbar. The ball goes out of play and Dep. Tachira will have a goal kick."
+      ],
+      [
+        "33",
+        "Juan Ortiz (Dep. Tachira) fails to beat the offside trap and the linesman puts his flag up."
+      ],
+      [
+        "32",
+        "Daniel Saggiomo (Dep. Tachira) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off."
+      ],
+      [
+        "29",
+        "The ball goes out of play and Dep. Tachira have been awarded a corner kick."
+      ],
+      [
+        "28",
+        "Daniel Saggiomo (Dep. Tachira) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear."
+      ],
+      [
+        "27",
+        "Nelson Hernandez (Dep. Tachira) makes a strong challenge and Gery Vargas blows for a foul. Free kick. LDU Quito will probably just try to cross the ball in from here."
+      ],
+      [
+        "24",
+        "Fernando Cornejo (LDU Quito) is moving okay again after that injury scare."
+      ],
+      [
+        "21",
+        "Bryan Castillo (Dep. Tachira) sees a yellow card from Gery Vargas after he sent one of the opposing players to the ground."
+      ],
+      [
+        "20",
+        "Goal! Bryan Josias Ramirez Leon displays great vision and sends a pass to Alex Adrian Arce Barrios (LDU Quito), who shows brilliant composure inside the box to bury the ball into the bottom right corner. The score is 0:2."
+      ],
+      [
+        "19",
+        "Carlos Sosa (Dep. Tachira) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger."
+      ],
+      [
+        "15",
+        "A shot from the edge of the box by Daniel Saggiomo (Dep. Tachira) is close, but lifts narrowly over the bar at the last second. The ball is off of the pitch and it's a goal kick for LDU Quito."
+      ],
+      [
+        "14",
+        "LDU Quito are dominating the game at the moment by exchanging a combination of one or two touch passes. Great harmony between the players."
+      ],
+      [
+        "12",
+        "Another attempt to send the ball beyond the defence by Roberto Rosales (Dep. Tachira) is thwarted and cleared to safety."
+      ],
+      [
+        "7",
+        "Dario Javier Aimar Alvarez (LDU Quito) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision."
+      ],
+      [
+        "3",
+        "The ball unexpectedly rebounds out to Carlos Gruezo (LDU Quito) on the edge of the box, but his attempt is lame and ends up well wide of the right post. The ball is off of the pitch and it's a goal kick for Dep. Tachira."
+      ],
+      [
+        "2",
+        "A pass by Lisandro Alzugaray (LDU Quito) ends up in no man's land, and the attacking effort comes to an end. The ball is off of the pitch and it's a goal kick for Dep. Tachira."
+      ],
+      [
+        "0",
+        "Dep. Tachira will kick the game off."
+      ],
+      [
+        "Show lineups",
+        "You can have a look at the starting XIs of both teams in the details of this match."
+      ]
+    ]
+  }
+]

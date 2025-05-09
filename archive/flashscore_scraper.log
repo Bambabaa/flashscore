@@ -1,0 +1,754 @@
+2025-05-04 18:07:33,077 - flashscore_scraper - INFO - Scraper initialized
+2025-05-04 18:07:45,261 - flashscore_scraper - INFO - Found 0 fixtures for league: https://www.flashscore.com/football/england/premier-league/
+2025-05-04 18:07:45,276 - flashscore_scraper - ERROR - No data to save to data/leagues//fixtures_20250504_180745.csv
+2025-05-04 18:07:45,279 - flashscore_scraper - ERROR - No data to save to data/leagues//match_details_20250504_180745.csv
+2025-05-04 18:10:53,113 - flashscore_scraper - INFO - Scraper initialized
+2025-05-04 18:11:10,806 - flashscore_scraper - INFO - Found 0 fixtures for league: https://www.flashscore.com/football/brazil/serie-a-betano/
+2025-05-04 18:11:10,819 - flashscore_scraper - ERROR - No data to save to data/leagues//fixtures_20250504_181110.csv
+2025-05-04 18:11:10,836 - flashscore_scraper - ERROR - No data to save to data/leagues//match_details_20250504_181110.csv
+2025-05-09 03:48:14,966 - INFO - Using ChromeDriver from: C:\Users\M2S30\Documents\GitHub\flashscore\drivers\chromedriver.exe
+2025-05-09 03:48:23,000 - INFO - Chrome WebDriver initialized successfully
+2025-05-09 03:48:23,033 - INFO - Accessing matches for date: 20250509
+2025-05-09 03:50:27,220 - ERROR - Error getting match IDs: HTTPConnectionPool(host='localhost', port=52449): Read timed out. (read timeout=120)
+2025-05-09 03:50:56,091 - INFO - Using ChromeDriver from: C:\Users\M2S30\Documents\GitHub\flashscore\drivers\chromedriver.exe
+2025-05-09 03:51:00,924 - INFO - Chrome WebDriver initialized successfully
+2025-05-09 03:51:00,964 - INFO - Accessing matches for date: 20250509
+2025-05-09 03:51:38,726 - INFO - Handled GDPR consent
+2025-05-09 03:51:40,058 - INFO - Found match: {'id': 'KOJsLbH7', 'teams': [], 'score': None, 'time': '13:30'}
+2025-05-09 03:51:50,837 - INFO - Found match: {'id': '6PkzYqGj', 'teams': [], 'score': None, 'time': '13:45'}
+2025-05-09 03:51:52,792 - INFO - Found match: {'id': '4MMUYqIF', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:51:53,526 - INFO - Found match: {'id': '6mjfo6zG', 'teams': [], 'score': '-', 'time': '16:30'}
+2025-05-09 03:51:55,615 - INFO - Found match: {'id': 'pY1omS53', 'teams': [], 'score': '-', 'time': '16:30'}
+2025-05-09 03:51:55,837 - INFO - Found match: {'id': 'IR9aPODd', 'teams': [], 'score': '-', 'time': '19:00'}
+2025-05-09 03:51:56,059 - INFO - Found match: {'id': 'MaGjRpqp', 'teams': [], 'score': '-', 'time': '19:00'}
+2025-05-09 03:51:56,222 - INFO - Found match: {'id': 'EXo8NCcl', 'teams': [], 'score': None, 'time': '14:00'}
+2025-05-09 03:51:56,442 - INFO - Found match: {'id': 'pGGHsxrm', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:51:56,695 - INFO - Found match: {'id': 'UBrtzJPr', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:51:56,943 - INFO - Found match: {'id': 'jRWlYdfe', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:51:57,312 - INFO - Found match: {'id': 'MB6YqTRb', 'teams': [], 'score': '-', 'time': '18:00'}
+2025-05-09 03:51:57,551 - INFO - Found match: {'id': 'I1p7xBPi', 'teams': [], 'score': '-', 'time': '07:00'}
+2025-05-09 03:51:58,028 - INFO - Found match: {'id': 'MgsOYSOG', 'teams': [], 'score': '-', 'time': '09:30'}
+2025-05-09 03:51:58,318 - INFO - Found match: {'id': 'lYASIgzi', 'teams': [], 'score': '-', 'time': '19:00\nFRO'}
+2025-05-09 03:51:58,741 - INFO - Found match: {'id': '65Hp26x3', 'teams': [], 'score': '-', 'time': '05:30'}
+2025-05-09 03:51:59,369 - INFO - Found match: {'id': 'vD4Xh2ak', 'teams': [], 'score': '-', 'time': '09:00'}
+2025-05-09 03:52:01,342 - INFO - Found match: {'id': 'IBmYEi7D', 'teams': [], 'score': '-', 'time': '04:35'}
+2025-05-09 03:52:01,623 - INFO - Found match: {'id': 'Me056dUi', 'teams': [], 'score': '-', 'time': '05:00'}
+2025-05-09 03:52:01,862 - INFO - Found match: {'id': 'INgE4za4', 'teams': [], 'score': '-', 'time': '23:00'}
+2025-05-09 03:52:02,192 - INFO - Found match: {'id': 'vHz12wpA', 'teams': [], 'score': '-', 'time': '04:30'}
+2025-05-09 03:52:02,413 - INFO - Found match: {'id': 'YHhZqVTr', 'teams': [], 'score': '-', 'time': '04:30'}
+2025-05-09 03:52:02,655 - INFO - Found match: {'id': 'OvHVyITP', 'teams': [], 'score': '-', 'time': '04:30'}
+2025-05-09 03:52:02,923 - INFO - Found match: {'id': 'I7eyIdxf', 'teams': [], 'score': '-', 'time': '04:30'}
+2025-05-09 03:52:03,862 - INFO - Found match: {'id': 'jLgqGz76', 'teams': [], 'score': '-', 'time': '04:30'}
+2025-05-09 03:52:04,055 - INFO - Found match: {'id': 'QLlgpR1E', 'teams': [], 'score': '-', 'time': '05:45'}
+2025-05-09 03:52:04,270 - INFO - Found match: {'id': 'd8BQRIom', 'teams': [], 'score': '-', 'time': '05:45'}
+2025-05-09 03:52:04,506 - INFO - Found match: {'id': 'h2uRc1JF', 'teams': [], 'score': '-', 'time': '23:30'}
+2025-05-09 03:52:04,744 - INFO - Found match: {'id': 'n5xJaNl3', 'teams': [], 'score': '-', 'time': '23:30'}
+2025-05-09 03:52:04,950 - INFO - Found match: {'id': 'tlLIHk7M', 'teams': [], 'score': '-', 'time': '04:30'}
+2025-05-09 03:52:05,213 - INFO - Found match: {'id': 'CWBlCTUq', 'teams': [], 'score': '-', 'time': '04:30'}
+2025-05-09 03:52:05,427 - INFO - Found match: {'id': 'Yo0cA7ad', 'teams': [], 'score': '-', 'time': '04:45'}
+2025-05-09 03:52:05,638 - INFO - Found match: {'id': 'EeWDkF8r', 'teams': [], 'score': '-', 'time': '06:00'}
+2025-05-09 03:52:05,853 - INFO - Found match: {'id': '2ueidK3k', 'teams': [], 'score': '-', 'time': '05:00'}
+2025-05-09 03:52:06,072 - INFO - Found match: {'id': 'tO5oZyI6', 'teams': [], 'score': '-', 'time': '05:30'}
+2025-05-09 03:52:06,288 - INFO - Found match: {'id': 'Ey4gXFnJ', 'teams': [], 'score': '-', 'time': '22:45'}
+2025-05-09 03:52:06,494 - INFO - Found match: {'id': 'Y37HTfmS', 'teams': [], 'score': '-', 'time': '21:15\nFRO'}
+2025-05-09 03:52:06,693 - INFO - Found match: {'id': '2JcmOYAk', 'teams': [], 'score': '-', 'time': '23:15\nFRO'}
+2025-05-09 03:52:06,966 - INFO - Found match: {'id': 'OYodMCu2', 'teams': [], 'score': '-', 'time': '23:30\nFRO'}
+2025-05-09 03:52:07,194 - INFO - Found match: {'id': 't0iLvkW9', 'teams': [], 'score': '-', 'time': '05:15\nFRO'}
+2025-05-09 03:52:07,405 - INFO - Found match: {'id': 'xSpUxT0M', 'teams': [], 'score': '-', 'time': '21:15\nFRO'}
+2025-05-09 03:52:07,617 - INFO - Found match: {'id': '6sy0X6Oq', 'teams': [], 'score': '-', 'time': '23:30\nFRO'}
+2025-05-09 03:52:07,839 - INFO - Found match: {'id': 'tpuL7OO0', 'teams': [], 'score': '-', 'time': '04:30'}
+2025-05-09 03:52:08,027 - INFO - Found match: {'id': 'xCYT52gD', 'teams': [], 'score': '-', 'time': '05:30'}
+2025-05-09 03:52:08,229 - INFO - Found match: {'id': 'U5LFT5oK', 'teams': [], 'score': '-', 'time': '05:30'}
+2025-05-09 03:52:08,435 - INFO - Found match: {'id': '6HFV7ogR', 'teams': [], 'score': '-', 'time': '23:15'}
+2025-05-09 03:52:08,635 - INFO - Found match: {'id': '6599joc2', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 03:52:08,833 - INFO - Found match: {'id': 'Actk8UaB', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 03:52:09,028 - INFO - Found match: {'id': 'INqc68UN', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 03:52:09,226 - INFO - Found match: {'id': 'lrhtAjVb', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 03:52:09,472 - INFO - Found match: {'id': 'rokYBC0n', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 03:52:09,706 - INFO - Found match: {'id': '4KJNi9FU', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 03:52:09,905 - INFO - Found match: {'id': 'dCVVc7x2', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 03:52:10,110 - INFO - Found match: {'id': 'nVcEEhSj', 'teams': [], 'score': '-', 'time': '05:00'}
+2025-05-09 03:52:10,332 - INFO - Found match: {'id': 'MmEZLzzH', 'teams': [], 'score': '-', 'time': '05:00'}
+2025-05-09 03:52:10,660 - INFO - Found match: {'id': 'IF7rKE4T', 'teams': [], 'score': '-', 'time': '05:00'}
+2025-05-09 03:52:10,929 - INFO - Found match: {'id': 'z9eTGnke', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 03:52:11,144 - INFO - Found match: {'id': 'fVoSMLQP', 'teams': [], 'score': '-', 'time': '13:45'}
+2025-05-09 03:52:11,369 - INFO - Found match: {'id': 'KAOzclrS', 'teams': [], 'score': '-', 'time': '19:00'}
+2025-05-09 03:52:11,602 - INFO - Found match: {'id': 'EsudCJQq', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:52:12,027 - INFO - Found match: {'id': 'riSaKh0C', 'teams': [], 'score': '-', 'time': '19:00'}
+2025-05-09 03:52:12,255 - INFO - Found match: {'id': 'lvIUUU7l', 'teams': [], 'score': '-', 'time': '09:45'}
+2025-05-09 03:52:12,452 - INFO - Found match: {'id': 'IcOyOkhK', 'teams': [], 'score': '-', 'time': '12:15'}
+2025-05-09 03:52:12,642 - INFO - Found match: {'id': 'jNM3BOLa', 'teams': [], 'score': '-', 'time': '06:00'}
+2025-05-09 03:52:12,827 - INFO - Found match: {'id': '2VseIcRF', 'teams': [], 'score': '-', 'time': '14:00'}
+2025-05-09 03:52:13,011 - INFO - Found match: {'id': 'hzBdvLY0', 'teams': [], 'score': '-', 'time': '11:30'}
+2025-05-09 03:52:13,216 - INFO - Found match: {'id': 'Qm94xa3D', 'teams': [], 'score': '-', 'time': '18:00'}
+2025-05-09 03:52:13,395 - INFO - Found match: {'id': 'pAL8qAbm', 'teams': [], 'score': '-', 'time': '06:35'}
+2025-05-09 03:52:13,598 - INFO - Found match: {'id': 'MZbR9nAE', 'teams': [], 'score': '-', 'time': '18:20'}
+2025-05-09 03:52:13,791 - INFO - Found match: {'id': 'EcNdyS3k', 'teams': [], 'score': '-', 'time': '20:30'}
+2025-05-09 03:52:14,001 - INFO - Found match: {'id': 'nojM8jVb', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 03:52:14,235 - INFO - Found match: {'id': 'vH8BDLsf', 'teams': [], 'score': '-', 'time': '15:00\nFRO'}
+2025-05-09 03:52:14,465 - INFO - Found match: {'id': 'Wv5fLBdC', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 03:52:14,657 - INFO - Found match: {'id': 'by2wHRGc', 'teams': [], 'score': '-', 'time': '11:30'}
+2025-05-09 03:52:14,878 - INFO - Found match: {'id': 'f3enF5oA', 'teams': [], 'score': '-', 'time': '11:30'}
+2025-05-09 03:52:15,078 - INFO - Found match: {'id': 'vB9OhXjT', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 03:52:15,307 - INFO - Found match: {'id': '8Oxfq98L', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 03:52:15,495 - INFO - Found match: {'id': 'v7TPwmWr', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 03:52:15,683 - INFO - Found match: {'id': 'K8RUbf7F', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 03:52:15,904 - INFO - Found match: {'id': 'ShkKUlZg', 'teams': [], 'score': '-', 'time': '09:00\nFRO'}
+2025-05-09 03:52:16,095 - INFO - Found match: {'id': 'AwtXnyGF', 'teams': [], 'score': '-', 'time': '19:00'}
+2025-05-09 03:52:16,288 - INFO - Found match: {'id': 'd8L8UOSs', 'teams': [], 'score': '-', 'time': '15:30'}
+2025-05-09 03:52:16,464 - INFO - Found match: {'id': 't8aUcIrK', 'teams': [], 'score': '-', 'time': '09:00'}
+2025-05-09 03:52:16,682 - INFO - Found match: {'id': 'Y5v9jzyf', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 03:52:16,897 - INFO - Found match: {'id': 'Cjj0hd6s', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 03:52:17,088 - INFO - Found match: {'id': 'fR9S1iQQ', 'teams': [], 'score': '-', 'time': '14:00'}
+2025-05-09 03:52:17,294 - INFO - Found match: {'id': 'CIWV7d55', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 03:52:17,489 - INFO - Found match: {'id': 'U1yset0s', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 03:52:17,672 - INFO - Found match: {'id': 'Kb6IhmFd', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 03:52:17,909 - INFO - Found match: {'id': 'xzy30aY2', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 03:52:18,144 - INFO - Found match: {'id': 'no8Af9pp', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 03:52:18,373 - INFO - Found match: {'id': 'S0Rw0VMM', 'teams': [], 'score': '-', 'time': '14:00'}
+2025-05-09 03:52:18,588 - INFO - Found match: {'id': 'KhJUUtYa', 'teams': [], 'score': '-', 'time': '11:31'}
+2025-05-09 03:52:18,869 - INFO - Found match: {'id': 'S6Wlwp2B', 'teams': [], 'score': '-', 'time': '11:30'}
+2025-05-09 03:52:19,143 - INFO - Found match: {'id': 'QorIAocf', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 03:52:19,424 - INFO - Found match: {'id': 'MqQbkk2k', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 03:52:19,634 - INFO - Found match: {'id': 'M3dBBuJi', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 03:52:19,829 - INFO - Found match: {'id': 'fV9I9Jm4', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 03:52:20,018 - INFO - Found match: {'id': 'IBJ7mTW1', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 03:52:20,207 - INFO - Found match: {'id': 'rkBgBWO8', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 03:52:20,404 - INFO - Found match: {'id': '44a29AgL', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 03:52:20,596 - INFO - Found match: {'id': 'zmjY3lHr', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 03:52:20,779 - INFO - Found match: {'id': 'jc3R7cIG', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 03:52:20,984 - INFO - Found match: {'id': '6THH7zrJ', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 03:52:21,188 - INFO - Found match: {'id': 'byK2VwzQ', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 03:52:21,371 - INFO - Found match: {'id': 'IL0ZPHcm', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 03:52:21,626 - INFO - Found match: {'id': 'MNAZEN5K', 'teams': [], 'score': '-', 'time': '11:30'}
+2025-05-09 03:52:21,824 - INFO - Found match: {'id': 'ELkE7ubf', 'teams': [], 'score': '-', 'time': '11:30'}
+2025-05-09 03:52:22,020 - INFO - Found match: {'id': 'Spy38htR', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 03:52:22,208 - INFO - Found match: {'id': '8YwP0XfT', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 03:52:22,423 - INFO - Found match: {'id': 'EkcHqUse', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:52:22,638 - INFO - Found match: {'id': 'MVMcJBRr', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:52:22,815 - INFO - Found match: {'id': 'UeQ5Hkde', 'teams': [], 'score': '-', 'time': '14:15'}
+2025-05-09 03:52:23,019 - INFO - Found match: {'id': 'jBEEFTQ7', 'teams': [], 'score': '-', 'time': '14:15'}
+2025-05-09 03:52:23,298 - INFO - Found match: {'id': 'd810wXIE', 'teams': [], 'score': '-', 'time': '14:30'}
+2025-05-09 03:52:23,544 - INFO - Found match: {'id': 'KGLIjE5U', 'teams': [], 'score': '-', 'time': '14:15'}
+2025-05-09 03:52:23,801 - INFO - Found match: {'id': 'juhGUp1f', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:52:24,652 - INFO - Found match: {'id': 'n7oPSOV6', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:52:24,862 - INFO - Found match: {'id': 'jsepwXdf', 'teams': [], 'score': '0', 'time': None}
+2025-05-09 03:52:25,031 - INFO - Found match: {'id': 'fF1yugSs', 'teams': [], 'score': '0', 'time': None}
+2025-05-09 03:52:25,231 - INFO - Found match: {'id': 'OfghyBR6', 'teams': [], 'score': '-', 'time': '07:00'}
+2025-05-09 03:52:25,448 - INFO - Found match: {'id': '6FCpGHmg', 'teams': [], 'score': '-', 'time': '13:45'}
+2025-05-09 03:52:25,659 - INFO - Found match: {'id': 't4s9sT6m', 'teams': [], 'score': '-', 'time': '13:45'}
+2025-05-09 03:52:25,888 - INFO - Found match: {'id': 'UPDjPoiJ', 'teams': [], 'score': '-', 'time': '13:45'}
+2025-05-09 03:52:26,116 - INFO - Found match: {'id': 'ALjwmkqQ', 'teams': [], 'score': '-', 'time': '13:45'}
+2025-05-09 03:52:26,373 - INFO - Found match: {'id': 'xpnAnPzi', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 03:52:26,610 - INFO - Found match: {'id': 'rySJvje3', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 03:52:26,855 - INFO - Found match: {'id': 'GlQRxUPF', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 03:52:27,104 - INFO - Found match: {'id': 'MVtPI8Yq', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 03:52:27,379 - INFO - Found match: {'id': 'UepXGn3d', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 03:52:27,588 - INFO - Found match: {'id': 'fs4qQDe5', 'teams': [], 'score': '-', 'time': '04:45'}
+2025-05-09 03:52:27,773 - INFO - Found match: {'id': 'dhB9PRFi', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 03:52:27,981 - INFO - Found match: {'id': 'hK4IN5p4', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 03:52:28,172 - INFO - Found match: {'id': 'QX2QLqFG', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 03:52:28,379 - INFO - Found match: {'id': 'MadZJNqT', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 03:52:28,584 - INFO - Found match: {'id': 'jFn5E17j', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 03:52:28,798 - INFO - Found match: {'id': 'WAPix5ac', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 03:52:29,021 - INFO - Found match: {'id': 'vyTazqU9', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 03:52:29,214 - INFO - Found match: {'id': 'YyoYHzEr', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 03:52:29,428 - INFO - Found match: {'id': '6kqtGEre', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 03:52:29,612 - INFO - Found match: {'id': 'C2EtEhD7', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 03:52:29,834 - INFO - Found match: {'id': 'Mu8b5UVG', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 03:52:30,017 - INFO - Found match: {'id': 'tUKWnMFk', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 03:52:30,221 - INFO - Found match: {'id': 'SAIbKlMj', 'teams': [], 'score': '-', 'time': '10:30'}
+2025-05-09 03:52:30,413 - INFO - Found match: {'id': 'tj0orhEc', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:52:31,384 - INFO - Found match: {'id': '4GaiD5qn', 'teams': [], 'score': '0', 'time': None}
+2025-05-09 03:52:31,879 - INFO - Found match: {'id': 'GlUol0re', 'teams': [], 'score': '-', 'time': '09:00'}
+2025-05-09 03:52:32,072 - INFO - Found match: {'id': 'SUQ0HyOi', 'teams': [], 'score': '-', 'time': '07:00'}
+2025-05-09 03:52:32,279 - INFO - Found match: {'id': '2NmIBXiT', 'teams': [], 'score': '-', 'time': '07:00'}
+2025-05-09 03:52:32,467 - INFO - Found match: {'id': '8Qgz1GwB', 'teams': [], 'score': '-', 'time': '07:00'}
+2025-05-09 03:52:32,690 - INFO - Found match: {'id': 'GKU9CRSk', 'teams': [], 'score': '-', 'time': '09:00\nFRO'}
+2025-05-09 03:52:32,911 - INFO - Found match: {'id': '63pRkmY0', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 03:52:33,112 - INFO - Found match: {'id': 'AaqZBU1L', 'teams': [], 'score': '-', 'time': '10:30'}
+2025-05-09 03:52:33,333 - INFO - Found match: {'id': 'EXkQDjX8', 'teams': [], 'score': '-', 'time': '10:30'}
+2025-05-09 03:52:33,531 - INFO - Found match: {'id': 'QPl468Pr', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:52:33,799 - INFO - Found match: {'id': '2qJrAJvn', 'teams': [], 'score': '-', 'time': '11:30'}
+2025-05-09 03:52:34,091 - INFO - Found match: {'id': 'A9Mj8c9b', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 03:52:34,355 - INFO - Found match: {'id': 'G2iiqfcf', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 03:52:34,593 - INFO - Found match: {'id': 'YN9Rlj2K', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 03:52:34,826 - INFO - Found match: {'id': '8reXFGIi', 'teams': [], 'score': '-', 'time': '11:15'}
+2025-05-09 03:52:35,050 - INFO - Found match: {'id': 'OxrGCpZH', 'teams': [], 'score': '-', 'time': '19:00\nFRO'}
+2025-05-09 03:52:35,275 - INFO - Found match: {'id': '8thiIl5t', 'teams': [], 'score': '-', 'time': '19:00\nFRO'}
+2025-05-09 03:52:35,551 - INFO - Found match: {'id': 'fcjaGSZh', 'teams': [], 'score': '-', 'time': '19:00\nFRO'}
+2025-05-09 03:52:35,751 - INFO - Found match: {'id': 'ERdiFTEb', 'teams': [], 'score': '-', 'time': '21:00'}
+2025-05-09 03:52:35,936 - INFO - Found match: {'id': 'EZULbBcL', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:52:36,139 - INFO - Found match: {'id': 'ptbWmfq3', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:52:36,391 - INFO - Found match: {'id': '6enunYDF', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:52:36,594 - INFO - Found match: {'id': 'ELkmpCrS', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:52:36,800 - INFO - Found match: {'id': 'ImoJvj6k', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:52:36,997 - INFO - Found match: {'id': 'j1qRxUz2', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:52:37,177 - INFO - Found match: {'id': '69RD0XS8', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:52:37,365 - INFO - Found match: {'id': 'b76hgkLr', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:52:37,568 - INFO - Found match: {'id': 'tjb9k7K7', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:52:37,758 - INFO - Found match: {'id': 'pO40iTke', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:52:37,942 - INFO - Found match: {'id': 'lrW9oNIs', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 03:52:38,134 - INFO - Found match: {'id': 'rLBnbcbs', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 03:52:38,345 - INFO - Found match: {'id': 'Kpa9DmcJ', 'teams': [], 'score': '-', 'time': '13:45'}
+2025-05-09 03:52:38,562 - INFO - Found match: {'id': 'ObT13AwB', 'teams': [], 'score': '-', 'time': '15:00'}
+2025-05-09 03:52:38,807 - INFO - Found match: {'id': '8ljZp2Nq', 'teams': [], 'score': '-', 'time': '17:30'}
+2025-05-09 03:52:38,996 - INFO - Found match: {'id': 'Q1CtZMng', 'teams': [], 'score': '-', 'time': '15:30'}
+2025-05-09 03:52:39,191 - INFO - Found match: {'id': 'vwGBt7rT', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 03:52:39,374 - INFO - Found match: {'id': 'f7o3vaeo', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 03:52:39,580 - INFO - Found match: {'id': 'AZefQbhm', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 03:52:39,785 - INFO - Found match: {'id': '4Yl3OxNa', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 03:52:39,974 - INFO - Found match: {'id': '2JuW7qFd', 'teams': [], 'score': '-', 'time': '05:00'}
+2025-05-09 03:52:40,164 - INFO - Found match: {'id': 'IDdMKL5k', 'teams': [], 'score': '-', 'time': '14:15'}
+2025-05-09 03:52:40,342 - INFO - Found match: {'id': '2eBNYqW0', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 03:52:40,541 - INFO - Found match: {'id': 'MNzkKpH7', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 03:52:40,748 - INFO - Found match: {'id': 'OMimyodc', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 03:52:40,999 - INFO - Found match: {'id': 'WCnJUrwS', 'teams': [], 'score': '-', 'time': '09:00\nFRO'}
+2025-05-09 03:52:41,269 - INFO - Found match: {'id': 'KYY8lCmA', 'teams': [], 'score': '-', 'time': '13:45'}
+2025-05-09 03:52:41,551 - INFO - Found match: {'id': 'Ey894yUr', 'teams': [], 'score': '-', 'time': '11:15'}
+2025-05-09 03:52:41,809 - INFO - Found match: {'id': '6iMI0gT7', 'teams': [], 'score': '-', 'time': '11:15'}
+2025-05-09 03:52:42,070 - INFO - Found match: {'id': 't0Rx0vhd', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 03:52:42,288 - INFO - Found match: {'id': 'l2nb7MaM', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 03:52:42,559 - INFO - Found match: {'id': '6sDfm18j', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 03:52:42,740 - INFO - Found match: {'id': 'f3gk9rV9', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 03:52:42,926 - INFO - Found match: {'id': '86JONsp3', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 03:52:43,107 - INFO - Found match: {'id': 'pYXT10Nq', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 03:52:43,300 - INFO - Found match: {'id': 'nwjsB40c', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 03:52:43,507 - INFO - Found match: {'id': 'MP39J3Vs', 'teams': [], 'score': '-', 'time': '07:30'}
+2025-05-09 03:52:43,731 - INFO - Found match: {'id': '84O3FB24', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 03:52:43,930 - INFO - Found match: {'id': 'AN97XtsQ', 'teams': [], 'score': '-', 'time': '18:00\nFRO'}
+2025-05-09 03:52:44,136 - INFO - Found match: {'id': 'dMbSyNDD', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 03:52:44,307 - INFO - Found match: {'id': '8UPAEboe', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 03:52:44,522 - INFO - Found match: {'id': 'lS99GKGr', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 03:52:45,215 - INFO - Found match: {'id': 'IumxZSW9', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 03:52:45,454 - INFO - Found match: {'id': 'MDgTzk2c', 'teams': [], 'score': '-', 'time': '13:15'}
+2025-05-09 03:52:45,699 - INFO - Found match: {'id': 'Q1Cec8b4', 'teams': [], 'score': '-', 'time': '07:00'}
+2025-05-09 03:52:45,948 - INFO - Found match: {'id': 'bFA3enTG', 'teams': [], 'score': '-', 'time': '07:00'}
+2025-05-09 03:52:46,233 - INFO - Found match: {'id': 'vkhRcexp', 'teams': [], 'score': '-', 'time': '17:00'}
+2025-05-09 03:52:46,464 - INFO - Found match: {'id': 'bi8SeZ6d', 'teams': [], 'score': '-', 'time': '19:00'}
+2025-05-09 03:52:46,749 - INFO - Found match: {'id': '2TjQDd43', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 03:52:46,952 - INFO - Found match: {'id': 'MwNL2We2', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 03:52:47,141 - INFO - Found match: {'id': 'nPxwfb16', 'teams': [], 'score': '-', 'time': '07:00'}
+2025-05-09 03:52:47,326 - INFO - Found match: {'id': 'SdDB8cGa', 'teams': [], 'score': '-', 'time': '07:00'}
+2025-05-09 03:52:47,509 - INFO - Found match: {'id': 'zaYWFuOP', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 03:52:47,701 - INFO - Found match: {'id': 'IqoMct2s', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 03:52:47,856 - INFO - Found match: {'id': 'xzeBswC6', 'teams': [], 'score': '-', 'time': None}
+2025-05-09 03:52:48,052 - INFO - Found match: {'id': 'Y1lKuHtJ', 'teams': [], 'score': '-', 'time': '07:00\nFRO'}
+2025-05-09 03:52:48,237 - INFO - Found match: {'id': 'jJd3qasf', 'teams': [], 'score': '-', 'time': '07:30\nFRO'}
+2025-05-09 03:52:48,509 - INFO - Found match: {'id': 'U38foLCs', 'teams': [], 'score': '-', 'time': '08:00\nFRO'}
+2025-05-09 03:52:48,721 - INFO - Found match: {'id': 'lpgosgCj', 'teams': [], 'score': '-', 'time': '07:30'}
+2025-05-09 03:52:48,920 - INFO - Found match: {'id': 'bev3UFSp', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 03:52:49,100 - INFO - Found match: {'id': 'bwHVErY2', 'teams': [], 'score': '-', 'time': '10:30'}
+2025-05-09 03:52:49,278 - INFO - Found match: {'id': '0hlcfZbe', 'teams': [], 'score': '-', 'time': '18:00'}
+2025-05-09 03:52:49,474 - INFO - Found match: {'id': 'ficM7rnL', 'teams': [], 'score': '-', 'time': '19:00'}
+2025-05-09 03:52:49,681 - INFO - Found match: {'id': 'O6mh2M9r', 'teams': [], 'score': '-', 'time': '21:30'}
+2025-05-09 03:52:49,873 - INFO - Found match: {'id': '2Bg7zuRr', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 03:52:50,058 - INFO - Found match: {'id': 'r7MtKJt2', 'teams': [], 'score': '-', 'time': '10:15'}
+2025-05-09 03:52:50,248 - INFO - Found match: {'id': 'Y3gVLTl4', 'teams': [], 'score': '-', 'time': '07:15'}
+2025-05-09 03:52:50,459 - INFO - Found match: {'id': 'fJsvK7JG', 'teams': [], 'score': '-', 'time': '07:15'}
+2025-05-09 03:52:53,382 - INFO - Found match: {'id': 'nN9HCl8b', 'teams': [], 'score': '2', 'time': None}
+2025-05-09 03:52:54,309 - INFO - Found match: {'id': 'dSmlkTRq', 'teams': [], 'score': '0', 'time': None}
+2025-05-09 03:52:54,689 - INFO - Found match: {'id': 'zJEfqskT', 'teams': [], 'score': '-', 'time': '07:00'}
+2025-05-09 03:52:55,019 - INFO - Found match: {'id': '4hidm7dd', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 03:52:55,281 - INFO - Found match: {'id': 'OjP51L2L', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 03:52:55,520 - INFO - Found match: {'id': 'KEbiIlaK', 'teams': [], 'score': '-', 'time': '04:00'}
+2025-05-09 03:52:55,778 - INFO - Found match: {'id': '2Z1GCSMs', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 03:52:55,780 - INFO - Found 239 matches
+2025-05-09 03:52:55,780 - INFO - Getting details for match: KOJsLbH7
+2025-05-09 03:54:13,237 - ERROR - Error getting match statistics: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C5DDCF25+75717]
+	GetHandleVerifier [0x00007FF6C5DDCF80+75808]
+	(No symbol) [0x00007FF6C5BA8F9A]
+	(No symbol) [0x00007FF6C5BFF4C6]
+	(No symbol) [0x00007FF6C5BFF77C]
+	(No symbol) [0x00007FF6C5C52577]
+	(No symbol) [0x00007FF6C5C273BF]
+	(No symbol) [0x00007FF6C5C4F39C]
+	(No symbol) [0x00007FF6C5C27153]
+	(No symbol) [0x00007FF6C5BF0421]
+	(No symbol) [0x00007FF6C5BF11B3]
+	GetHandleVerifier [0x00007FF6C60DD6FD+3223453]
+	GetHandleVerifier [0x00007FF6C60D7CA2+3200322]
+	GetHandleVerifier [0x00007FF6C60F5AD3+3322739]
+	GetHandleVerifier [0x00007FF6C5DF69FA+180890]
+	GetHandleVerifier [0x00007FF6C5DFE0FF+211359]
+	GetHandleVerifier [0x00007FF6C5DE5274+109332]
+	GetHandleVerifier [0x00007FF6C5DE5422+109762]
+	GetHandleVerifier [0x00007FF6C5DCBA39+4825]
+	BaseThreadInitThunk [0x00007FFE5494E8D7+23]
+	RtlUserThreadStart [0x00007FFE554114FC+44]
+
+2025-05-09 03:54:15,241 - INFO - Getting details for match: 6PkzYqGj
+2025-05-09 03:55:05,917 - ERROR - Error getting match statistics: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C5DDCF25+75717]
+	GetHandleVerifier [0x00007FF6C5DDCF80+75808]
+	(No symbol) [0x00007FF6C5BA8F9A]
+	(No symbol) [0x00007FF6C5BFF4C6]
+	(No symbol) [0x00007FF6C5BFF77C]
+	(No symbol) [0x00007FF6C5C52577]
+	(No symbol) [0x00007FF6C5C273BF]
+	(No symbol) [0x00007FF6C5C4F39C]
+	(No symbol) [0x00007FF6C5C27153]
+	(No symbol) [0x00007FF6C5BF0421]
+	(No symbol) [0x00007FF6C5BF11B3]
+	GetHandleVerifier [0x00007FF6C60DD6FD+3223453]
+	GetHandleVerifier [0x00007FF6C60D7CA2+3200322]
+	GetHandleVerifier [0x00007FF6C60F5AD3+3322739]
+	GetHandleVerifier [0x00007FF6C5DF69FA+180890]
+	GetHandleVerifier [0x00007FF6C5DFE0FF+211359]
+	GetHandleVerifier [0x00007FF6C5DE5274+109332]
+	GetHandleVerifier [0x00007FF6C5DE5422+109762]
+	GetHandleVerifier [0x00007FF6C5DCBA39+4825]
+	BaseThreadInitThunk [0x00007FFE5494E8D7+23]
+	RtlUserThreadStart [0x00007FFE554114FC+44]
+
+2025-05-09 03:55:07,919 - INFO - Getting details for match: 4MMUYqIF
+2025-05-09 03:56:07,965 - ERROR - Error getting match statistics: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C5DDCF25+75717]
+	GetHandleVerifier [0x00007FF6C5DDCF80+75808]
+	(No symbol) [0x00007FF6C5BA8F9A]
+	(No symbol) [0x00007FF6C5BFF4C6]
+	(No symbol) [0x00007FF6C5BFF77C]
+	(No symbol) [0x00007FF6C5C52577]
+	(No symbol) [0x00007FF6C5C273BF]
+	(No symbol) [0x00007FF6C5C4F39C]
+	(No symbol) [0x00007FF6C5C27153]
+	(No symbol) [0x00007FF6C5BF0421]
+	(No symbol) [0x00007FF6C5BF11B3]
+	GetHandleVerifier [0x00007FF6C60DD6FD+3223453]
+	GetHandleVerifier [0x00007FF6C60D7CA2+3200322]
+	GetHandleVerifier [0x00007FF6C60F5AD3+3322739]
+	GetHandleVerifier [0x00007FF6C5DF69FA+180890]
+	GetHandleVerifier [0x00007FF6C5DFE0FF+211359]
+	GetHandleVerifier [0x00007FF6C5DE5274+109332]
+	GetHandleVerifier [0x00007FF6C5DE5422+109762]
+	GetHandleVerifier [0x00007FF6C5DCBA39+4825]
+	BaseThreadInitThunk [0x00007FFE5494E8D7+23]
+	RtlUserThreadStart [0x00007FFE554114FC+44]
+
+2025-05-09 03:56:09,978 - INFO - Getting details for match: 6mjfo6zG
+2025-05-09 03:56:54,797 - ERROR - Error getting match statistics: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C5DDCF25+75717]
+	GetHandleVerifier [0x00007FF6C5DDCF80+75808]
+	(No symbol) [0x00007FF6C5BA8F9A]
+	(No symbol) [0x00007FF6C5BFF4C6]
+	(No symbol) [0x00007FF6C5BFF77C]
+	(No symbol) [0x00007FF6C5C52577]
+	(No symbol) [0x00007FF6C5C273BF]
+	(No symbol) [0x00007FF6C5C4F39C]
+	(No symbol) [0x00007FF6C5C27153]
+	(No symbol) [0x00007FF6C5BF0421]
+	(No symbol) [0x00007FF6C5BF11B3]
+	GetHandleVerifier [0x00007FF6C60DD6FD+3223453]
+	GetHandleVerifier [0x00007FF6C60D7CA2+3200322]
+	GetHandleVerifier [0x00007FF6C60F5AD3+3322739]
+	GetHandleVerifier [0x00007FF6C5DF69FA+180890]
+	GetHandleVerifier [0x00007FF6C5DFE0FF+211359]
+	GetHandleVerifier [0x00007FF6C5DE5274+109332]
+	GetHandleVerifier [0x00007FF6C5DE5422+109762]
+	GetHandleVerifier [0x00007FF6C5DCBA39+4825]
+	BaseThreadInitThunk [0x00007FFE5494E8D7+23]
+	RtlUserThreadStart [0x00007FFE554114FC+44]
+
+2025-05-09 03:56:56,801 - INFO - Getting details for match: pY1omS53
+2025-05-09 03:58:02,955 - ERROR - Error getting match statistics: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C5DDCF25+75717]
+	GetHandleVerifier [0x00007FF6C5DDCF80+75808]
+	(No symbol) [0x00007FF6C5BA8F9A]
+	(No symbol) [0x00007FF6C5BFF4C6]
+	(No symbol) [0x00007FF6C5BFF77C]
+	(No symbol) [0x00007FF6C5C52577]
+	(No symbol) [0x00007FF6C5C273BF]
+	(No symbol) [0x00007FF6C5C4F39C]
+	(No symbol) [0x00007FF6C5C27153]
+	(No symbol) [0x00007FF6C5BF0421]
+	(No symbol) [0x00007FF6C5BF11B3]
+	GetHandleVerifier [0x00007FF6C60DD6FD+3223453]
+	GetHandleVerifier [0x00007FF6C60D7CA2+3200322]
+	GetHandleVerifier [0x00007FF6C60F5AD3+3322739]
+	GetHandleVerifier [0x00007FF6C5DF69FA+180890]
+	GetHandleVerifier [0x00007FF6C5DFE0FF+211359]
+	GetHandleVerifier [0x00007FF6C5DE5274+109332]
+	GetHandleVerifier [0x00007FF6C5DE5422+109762]
+	GetHandleVerifier [0x00007FF6C5DCBA39+4825]
+	BaseThreadInitThunk [0x00007FFE5494E8D7+23]
+	RtlUserThreadStart [0x00007FFE554114FC+44]
+
+2025-05-09 03:58:04,978 - INFO - Saved 5 matches to matches_20250509.json
+2025-05-09 03:58:09,300 - INFO - Browser closed
+2025-05-09 04:01:45,901 - INFO - Using ChromeDriver from: C:\Users\M2S30\Documents\GitHub\flashscore\drivers\chromedriver.exe
+2025-05-09 04:01:50,482 - INFO - Chrome WebDriver initialized successfully
+2025-05-09 04:01:50,485 - INFO - Accessing matches for date: 20250509
+2025-05-09 04:02:44,254 - INFO - Handled GDPR consent
+2025-05-09 04:02:45,341 - INFO - Found match: {'id': 'KOJsLbH7', 'teams': [], 'score': None, 'time': '13:30'}
+2025-05-09 04:03:20,290 - INFO - Found match: {'id': '6PkzYqGj', 'teams': [], 'score': None, 'time': '13:45'}
+2025-05-09 04:03:20,603 - INFO - Found match: {'id': '4MMUYqIF', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:03:20,907 - INFO - Found match: {'id': '6mjfo6zG', 'teams': [], 'score': '-', 'time': '16:30'}
+2025-05-09 04:03:21,210 - INFO - Found match: {'id': 'pY1omS53', 'teams': [], 'score': '-', 'time': '16:30'}
+2025-05-09 04:03:21,512 - INFO - Found match: {'id': 'IR9aPODd', 'teams': [], 'score': '-', 'time': '19:00'}
+2025-05-09 04:03:21,963 - INFO - Found match: {'id': 'MaGjRpqp', 'teams': [], 'score': '-', 'time': '19:00'}
+2025-05-09 04:03:22,169 - INFO - Found match: {'id': 'EXo8NCcl', 'teams': [], 'score': None, 'time': '14:00'}
+2025-05-09 04:03:22,399 - INFO - Found match: {'id': 'pGGHsxrm', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:03:22,641 - INFO - Found match: {'id': 'UBrtzJPr', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:03:23,001 - INFO - Found match: {'id': 'jRWlYdfe', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:03:23,146 - INFO - Found match: {'id': 'MB6YqTRb', 'teams': [], 'score': '-', 'time': '18:00'}
+2025-05-09 04:03:23,332 - INFO - Found match: {'id': 'I1p7xBPi', 'teams': [], 'score': '-', 'time': '07:00'}
+2025-05-09 04:03:23,526 - INFO - Found match: {'id': 'MgsOYSOG', 'teams': [], 'score': '-', 'time': '09:30'}
+2025-05-09 04:03:23,700 - INFO - Found match: {'id': 'lYASIgzi', 'teams': [], 'score': '-', 'time': '19:00\nFRO'}
+2025-05-09 04:03:23,894 - INFO - Found match: {'id': '65Hp26x3', 'teams': [], 'score': '-', 'time': '05:30'}
+2025-05-09 04:03:24,136 - INFO - Found match: {'id': 'vD4Xh2ak', 'teams': [], 'score': '-', 'time': '09:00'}
+2025-05-09 04:03:25,047 - INFO - Found match: {'id': 'IBmYEi7D', 'teams': [], 'score': '-', 'time': '04:35'}
+2025-05-09 04:03:25,268 - INFO - Found match: {'id': 'Me056dUi', 'teams': [], 'score': '-', 'time': '05:00'}
+2025-05-09 04:03:25,773 - INFO - Found match: {'id': 'INgE4za4', 'teams': [], 'score': '-', 'time': '23:00'}
+2025-05-09 04:03:26,305 - INFO - Found match: {'id': 'vHz12wpA', 'teams': [], 'score': '-', 'time': '04:30'}
+2025-05-09 04:03:26,642 - INFO - Found match: {'id': 'YHhZqVTr', 'teams': [], 'score': '-', 'time': '04:30'}
+2025-05-09 04:03:26,946 - INFO - Found match: {'id': 'OvHVyITP', 'teams': [], 'score': '-', 'time': '04:30'}
+2025-05-09 04:03:27,190 - INFO - Found match: {'id': 'I7eyIdxf', 'teams': [], 'score': '-', 'time': '04:30'}
+2025-05-09 04:03:27,394 - INFO - Found match: {'id': 'jLgqGz76', 'teams': [], 'score': '-', 'time': '04:30'}
+2025-05-09 04:03:27,577 - INFO - Found match: {'id': 'QLlgpR1E', 'teams': [], 'score': '-', 'time': '05:45'}
+2025-05-09 04:03:27,792 - INFO - Found match: {'id': 'd8BQRIom', 'teams': [], 'score': '-', 'time': '05:45'}
+2025-05-09 04:03:28,207 - INFO - Found match: {'id': 'h2uRc1JF', 'teams': [], 'score': '-', 'time': '23:30'}
+2025-05-09 04:03:28,522 - INFO - Found match: {'id': 'n5xJaNl3', 'teams': [], 'score': '-', 'time': '23:30'}
+2025-05-09 04:03:28,739 - INFO - Found match: {'id': 'tlLIHk7M', 'teams': [], 'score': '-', 'time': '04:30'}
+2025-05-09 04:03:28,911 - INFO - Found match: {'id': 'CWBlCTUq', 'teams': [], 'score': '-', 'time': '04:30'}
+2025-05-09 04:03:29,063 - INFO - Found match: {'id': 'Yo0cA7ad', 'teams': [], 'score': '-', 'time': '04:45'}
+2025-05-09 04:03:29,244 - INFO - Found match: {'id': 'EeWDkF8r', 'teams': [], 'score': '-', 'time': '06:00'}
+2025-05-09 04:03:29,460 - INFO - Found match: {'id': '2ueidK3k', 'teams': [], 'score': '-', 'time': '05:00'}
+2025-05-09 04:03:29,612 - INFO - Found match: {'id': 'tO5oZyI6', 'teams': [], 'score': '-', 'time': '05:30'}
+2025-05-09 04:03:29,764 - INFO - Found match: {'id': 'Ey4gXFnJ', 'teams': [], 'score': '-', 'time': '22:45'}
+2025-05-09 04:03:29,913 - INFO - Found match: {'id': 'Y37HTfmS', 'teams': [], 'score': '-', 'time': '21:15\nFRO'}
+2025-05-09 04:03:30,081 - INFO - Found match: {'id': '2JcmOYAk', 'teams': [], 'score': '-', 'time': '23:15\nFRO'}
+2025-05-09 04:03:30,229 - INFO - Found match: {'id': 'OYodMCu2', 'teams': [], 'score': '-', 'time': '23:30\nFRO'}
+2025-05-09 04:03:30,396 - INFO - Found match: {'id': 't0iLvkW9', 'teams': [], 'score': '-', 'time': '05:15\nFRO'}
+2025-05-09 04:03:30,546 - INFO - Found match: {'id': 'xSpUxT0M', 'teams': [], 'score': '-', 'time': '21:15\nFRO'}
+2025-05-09 04:03:30,697 - INFO - Found match: {'id': '6sy0X6Oq', 'teams': [], 'score': '-', 'time': '23:30\nFRO'}
+2025-05-09 04:03:30,861 - INFO - Found match: {'id': 'tpuL7OO0', 'teams': [], 'score': '-', 'time': '04:30'}
+2025-05-09 04:03:31,020 - INFO - Found match: {'id': 'xCYT52gD', 'teams': [], 'score': '-', 'time': '05:30'}
+2025-05-09 04:03:31,245 - INFO - Found match: {'id': 'U5LFT5oK', 'teams': [], 'score': '-', 'time': '05:30'}
+2025-05-09 04:03:31,411 - INFO - Found match: {'id': '6HFV7ogR', 'teams': [], 'score': '-', 'time': '23:15'}
+2025-05-09 04:03:31,595 - INFO - Found match: {'id': '6599joc2', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 04:03:31,746 - INFO - Found match: {'id': 'Actk8UaB', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 04:03:31,912 - INFO - Found match: {'id': 'INqc68UN', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 04:03:32,069 - INFO - Found match: {'id': 'lrhtAjVb', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 04:03:32,220 - INFO - Found match: {'id': 'rokYBC0n', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 04:03:32,394 - INFO - Found match: {'id': '4KJNi9FU', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 04:03:32,553 - INFO - Found match: {'id': 'dCVVc7x2', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 04:03:32,697 - INFO - Found match: {'id': 'nVcEEhSj', 'teams': [], 'score': '-', 'time': '05:00'}
+2025-05-09 04:03:32,869 - INFO - Found match: {'id': 'MmEZLzzH', 'teams': [], 'score': '-', 'time': '05:00'}
+2025-05-09 04:03:33,061 - INFO - Found match: {'id': 'IF7rKE4T', 'teams': [], 'score': '-', 'time': '05:00'}
+2025-05-09 04:03:33,262 - INFO - Found match: {'id': 'z9eTGnke', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 04:03:33,498 - INFO - Found match: {'id': 'fVoSMLQP', 'teams': [], 'score': '-', 'time': '13:45'}
+2025-05-09 04:03:33,716 - INFO - Found match: {'id': 'KAOzclrS', 'teams': [], 'score': '-', 'time': '19:00'}
+2025-05-09 04:03:33,899 - INFO - Found match: {'id': 'EsudCJQq', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:03:34,088 - INFO - Found match: {'id': 'riSaKh0C', 'teams': [], 'score': '-', 'time': '19:00'}
+2025-05-09 04:03:34,397 - INFO - Found match: {'id': 'lvIUUU7l', 'teams': [], 'score': '-', 'time': '09:45'}
+2025-05-09 04:03:34,618 - INFO - Found match: {'id': 'IcOyOkhK', 'teams': [], 'score': '-', 'time': '12:15'}
+2025-05-09 04:03:34,786 - INFO - Found match: {'id': 'jNM3BOLa', 'teams': [], 'score': '-', 'time': '06:00'}
+2025-05-09 04:03:34,940 - INFO - Found match: {'id': '2VseIcRF', 'teams': [], 'score': '-', 'time': '14:00'}
+2025-05-09 04:03:35,130 - INFO - Found match: {'id': 'hzBdvLY0', 'teams': [], 'score': '-', 'time': '11:30'}
+2025-05-09 04:03:35,328 - INFO - Found match: {'id': 'Qm94xa3D', 'teams': [], 'score': '-', 'time': '18:00'}
+2025-05-09 04:03:35,599 - INFO - Found match: {'id': 'pAL8qAbm', 'teams': [], 'score': '-', 'time': '06:35'}
+2025-05-09 04:03:35,790 - INFO - Found match: {'id': 'MZbR9nAE', 'teams': [], 'score': '-', 'time': '18:20'}
+2025-05-09 04:03:36,088 - INFO - Found match: {'id': 'EcNdyS3k', 'teams': [], 'score': '-', 'time': '20:30'}
+2025-05-09 04:03:36,375 - INFO - Found match: {'id': 'nojM8jVb', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 04:03:36,645 - INFO - Found match: {'id': 'vH8BDLsf', 'teams': [], 'score': '-', 'time': '15:00\nFRO'}
+2025-05-09 04:03:37,376 - INFO - Found match: {'id': 'Wv5fLBdC', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 04:03:38,714 - INFO - Found match: {'id': 'by2wHRGc', 'teams': [], 'score': '-', 'time': '11:30'}
+2025-05-09 04:03:38,923 - INFO - Found match: {'id': 'f3enF5oA', 'teams': [], 'score': '-', 'time': '11:30'}
+2025-05-09 04:03:39,129 - INFO - Found match: {'id': 'vB9OhXjT', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 04:03:39,311 - INFO - Found match: {'id': '8Oxfq98L', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 04:03:39,496 - INFO - Found match: {'id': 'v7TPwmWr', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 04:03:39,678 - INFO - Found match: {'id': 'K8RUbf7F', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 04:03:39,901 - INFO - Found match: {'id': 'ShkKUlZg', 'teams': [], 'score': '-', 'time': '09:00\nFRO'}
+2025-05-09 04:03:40,062 - INFO - Found match: {'id': 'AwtXnyGF', 'teams': [], 'score': '-', 'time': '19:00'}
+2025-05-09 04:03:40,213 - INFO - Found match: {'id': 'd8L8UOSs', 'teams': [], 'score': '-', 'time': '15:30'}
+2025-05-09 04:03:40,364 - INFO - Found match: {'id': 't8aUcIrK', 'teams': [], 'score': '-', 'time': '09:00'}
+2025-05-09 04:03:40,515 - INFO - Found match: {'id': 'Y5v9jzyf', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 04:03:40,665 - INFO - Found match: {'id': 'Cjj0hd6s', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 04:03:40,889 - INFO - Found match: {'id': 'fR9S1iQQ', 'teams': [], 'score': '-', 'time': '14:00'}
+2025-05-09 04:03:41,104 - INFO - Found match: {'id': 'CIWV7d55', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 04:03:41,297 - INFO - Found match: {'id': 'U1yset0s', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 04:03:41,495 - INFO - Found match: {'id': 'Kb6IhmFd', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 04:03:41,707 - INFO - Found match: {'id': 'xzy30aY2', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 04:03:41,927 - INFO - Found match: {'id': 'no8Af9pp', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 04:03:42,080 - INFO - Found match: {'id': 'S0Rw0VMM', 'teams': [], 'score': '-', 'time': '14:00'}
+2025-05-09 04:03:42,231 - INFO - Found match: {'id': 'KhJUUtYa', 'teams': [], 'score': '-', 'time': '11:31'}
+2025-05-09 04:03:42,383 - INFO - Found match: {'id': 'S6Wlwp2B', 'teams': [], 'score': '-', 'time': '11:30'}
+2025-05-09 04:03:42,568 - INFO - Found match: {'id': 'QorIAocf', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 04:03:44,847 - INFO - Found match: {'id': 'MqQbkk2k', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 04:03:45,492 - INFO - Found match: {'id': 'M3dBBuJi', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 04:03:47,263 - INFO - Found match: {'id': 'fV9I9Jm4', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 04:03:47,617 - INFO - Found match: {'id': 'IBJ7mTW1', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 04:03:47,891 - INFO - Found match: {'id': 'rkBgBWO8', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 04:03:48,226 - INFO - Found match: {'id': '44a29AgL', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 04:03:48,526 - INFO - Found match: {'id': 'zmjY3lHr', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 04:03:48,727 - INFO - Found match: {'id': 'jc3R7cIG', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 04:03:48,929 - INFO - Found match: {'id': '6THH7zrJ', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 04:03:49,112 - INFO - Found match: {'id': 'byK2VwzQ', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 04:03:49,295 - INFO - Found match: {'id': 'IL0ZPHcm', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 04:03:49,522 - INFO - Found match: {'id': 'MNAZEN5K', 'teams': [], 'score': '-', 'time': '11:30'}
+2025-05-09 04:03:49,681 - INFO - Found match: {'id': 'ELkE7ubf', 'teams': [], 'score': '-', 'time': '11:30'}
+2025-05-09 04:03:49,830 - INFO - Found match: {'id': 'Spy38htR', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 04:03:49,964 - INFO - Found match: {'id': '8YwP0XfT', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 04:03:50,151 - INFO - Found match: {'id': 'EkcHqUse', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:03:50,350 - INFO - Found match: {'id': 'MVMcJBRr', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:03:50,567 - INFO - Found match: {'id': 'UeQ5Hkde', 'teams': [], 'score': '-', 'time': '14:15'}
+2025-05-09 04:03:50,807 - INFO - Found match: {'id': 'jBEEFTQ7', 'teams': [], 'score': '-', 'time': '14:15'}
+2025-05-09 04:03:50,995 - INFO - Found match: {'id': 'd810wXIE', 'teams': [], 'score': '-', 'time': '14:30'}
+2025-05-09 04:03:51,179 - INFO - Found match: {'id': 'KGLIjE5U', 'teams': [], 'score': '-', 'time': '14:15'}
+2025-05-09 04:03:51,362 - INFO - Found match: {'id': 'juhGUp1f', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:03:51,600 - INFO - Found match: {'id': 'n7oPSOV6', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:03:51,716 - INFO - Found match: {'id': 'jsepwXdf', 'teams': [], 'score': '1', 'time': None}
+2025-05-09 04:03:51,851 - INFO - Found match: {'id': 'fF1yugSs', 'teams': [], 'score': '0', 'time': None}
+2025-05-09 04:03:52,001 - INFO - Found match: {'id': 'OfghyBR6', 'teams': [], 'score': '-', 'time': '07:00'}
+2025-05-09 04:03:52,164 - INFO - Found match: {'id': '6FCpGHmg', 'teams': [], 'score': '-', 'time': '13:45'}
+2025-05-09 04:03:52,330 - INFO - Found match: {'id': 't4s9sT6m', 'teams': [], 'score': '-', 'time': '13:45'}
+2025-05-09 04:03:52,495 - INFO - Found match: {'id': 'UPDjPoiJ', 'teams': [], 'score': '-', 'time': '13:45'}
+2025-05-09 04:03:52,648 - INFO - Found match: {'id': 'ALjwmkqQ', 'teams': [], 'score': '-', 'time': '13:45'}
+2025-05-09 04:03:52,797 - INFO - Found match: {'id': 'xpnAnPzi', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 04:03:53,009 - INFO - Found match: {'id': 'rySJvje3', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 04:03:53,179 - INFO - Found match: {'id': 'GlQRxUPF', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 04:03:53,345 - INFO - Found match: {'id': 'MVtPI8Yq', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 04:03:53,513 - INFO - Found match: {'id': 'UepXGn3d', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 04:03:53,663 - INFO - Found match: {'id': 'fs4qQDe5', 'teams': [], 'score': '-', 'time': '04:45'}
+2025-05-09 04:03:53,814 - INFO - Found match: {'id': 'dhB9PRFi', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 04:03:53,980 - INFO - Found match: {'id': 'hK4IN5p4', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 04:03:54,146 - INFO - Found match: {'id': 'QX2QLqFG', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 04:03:54,296 - INFO - Found match: {'id': 'MadZJNqT', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 04:03:54,447 - INFO - Found match: {'id': 'jFn5E17j', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 04:03:54,598 - INFO - Found match: {'id': 'WAPix5ac', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 04:03:54,749 - INFO - Found match: {'id': 'vyTazqU9', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 04:03:54,912 - INFO - Found match: {'id': 'YyoYHzEr', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 04:03:55,094 - INFO - Found match: {'id': '6kqtGEre', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 04:03:55,251 - INFO - Found match: {'id': 'C2EtEhD7', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 04:03:55,485 - INFO - Found match: {'id': 'Mu8b5UVG', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 04:03:55,677 - INFO - Found match: {'id': 'tUKWnMFk', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 04:03:55,861 - INFO - Found match: {'id': 'SAIbKlMj', 'teams': [], 'score': '-', 'time': '10:30'}
+2025-05-09 04:03:56,016 - INFO - Found match: {'id': 'tj0orhEc', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:03:56,201 - INFO - Found match: {'id': '4GaiD5qn', 'teams': [], 'score': '0', 'time': None}
+2025-05-09 04:03:56,437 - INFO - Found match: {'id': 'GlUol0re', 'teams': [], 'score': '-', 'time': '09:00'}
+2025-05-09 04:03:56,660 - INFO - Found match: {'id': 'SUQ0HyOi', 'teams': [], 'score': '-', 'time': '07:00'}
+2025-05-09 04:03:56,879 - INFO - Found match: {'id': '2NmIBXiT', 'teams': [], 'score': '-', 'time': '07:00'}
+2025-05-09 04:03:57,095 - INFO - Found match: {'id': '8Qgz1GwB', 'teams': [], 'score': '-', 'time': '07:00'}
+2025-05-09 04:03:57,328 - INFO - Found match: {'id': 'GKU9CRSk', 'teams': [], 'score': '-', 'time': '09:00\nFRO'}
+2025-05-09 04:03:57,510 - INFO - Found match: {'id': '63pRkmY0', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 04:03:57,784 - INFO - Found match: {'id': 'AaqZBU1L', 'teams': [], 'score': '-', 'time': '10:30'}
+2025-05-09 04:03:57,946 - INFO - Found match: {'id': 'EXkQDjX8', 'teams': [], 'score': '-', 'time': '10:30'}
+2025-05-09 04:03:58,096 - INFO - Found match: {'id': 'QPl468Pr', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:03:58,279 - INFO - Found match: {'id': '2qJrAJvn', 'teams': [], 'score': '-', 'time': '11:30'}
+2025-05-09 04:03:58,436 - INFO - Found match: {'id': 'A9Mj8c9b', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 04:03:58,602 - INFO - Found match: {'id': 'G2iiqfcf', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 04:03:58,747 - INFO - Found match: {'id': 'YN9Rlj2K', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 04:03:58,912 - INFO - Found match: {'id': '8reXFGIi', 'teams': [], 'score': '-', 'time': '11:15'}
+2025-05-09 04:03:59,076 - INFO - Found match: {'id': 'OxrGCpZH', 'teams': [], 'score': '-', 'time': '19:00\nFRO'}
+2025-05-09 04:03:59,231 - INFO - Found match: {'id': '8thiIl5t', 'teams': [], 'score': '-', 'time': '19:00\nFRO'}
+2025-05-09 04:03:59,387 - INFO - Found match: {'id': 'fcjaGSZh', 'teams': [], 'score': '-', 'time': '19:00\nFRO'}
+2025-05-09 04:03:59,537 - INFO - Found match: {'id': 'ERdiFTEb', 'teams': [], 'score': '-', 'time': '21:00'}
+2025-05-09 04:03:59,681 - INFO - Found match: {'id': 'EZULbBcL', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:03:59,831 - INFO - Found match: {'id': 'ptbWmfq3', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:03:59,984 - INFO - Found match: {'id': '6enunYDF', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:04:00,255 - INFO - Found match: {'id': 'ELkmpCrS', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:04:00,412 - INFO - Found match: {'id': 'ImoJvj6k', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:04:00,564 - INFO - Found match: {'id': 'j1qRxUz2', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:04:00,714 - INFO - Found match: {'id': '69RD0XS8', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:04:00,880 - INFO - Found match: {'id': 'b76hgkLr', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:04:01,045 - INFO - Found match: {'id': 'tjb9k7K7', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:04:01,213 - INFO - Found match: {'id': 'pO40iTke', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:04:01,365 - INFO - Found match: {'id': 'lrW9oNIs', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 04:04:01,514 - INFO - Found match: {'id': 'rLBnbcbs', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 04:04:01,663 - INFO - Found match: {'id': 'Kpa9DmcJ', 'teams': [], 'score': '-', 'time': '13:45'}
+2025-05-09 04:04:01,829 - INFO - Found match: {'id': 'ObT13AwB', 'teams': [], 'score': '-', 'time': '15:00'}
+2025-05-09 04:04:01,996 - INFO - Found match: {'id': '8ljZp2Nq', 'teams': [], 'score': '-', 'time': '17:30'}
+2025-05-09 04:04:02,194 - INFO - Found match: {'id': 'Q1CtZMng', 'teams': [], 'score': '-', 'time': '15:30'}
+2025-05-09 04:04:02,427 - INFO - Found match: {'id': 'vwGBt7rT', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 04:04:02,674 - INFO - Found match: {'id': 'f7o3vaeo', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 04:04:02,862 - INFO - Found match: {'id': 'AZefQbhm', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 04:04:03,045 - INFO - Found match: {'id': '4Yl3OxNa', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 04:04:03,277 - INFO - Found match: {'id': '2JuW7qFd', 'teams': [], 'score': '-', 'time': '05:00'}
+2025-05-09 04:04:03,442 - INFO - Found match: {'id': 'IDdMKL5k', 'teams': [], 'score': '-', 'time': '14:15'}
+2025-05-09 04:04:03,581 - INFO - Found match: {'id': '2eBNYqW0', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 04:04:03,731 - INFO - Found match: {'id': 'MNzkKpH7', 'teams': [], 'score': '-', 'time': '13:00'}
+2025-05-09 04:04:03,890 - INFO - Found match: {'id': 'OMimyodc', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 04:04:04,126 - INFO - Found match: {'id': 'WCnJUrwS', 'teams': [], 'score': '-', 'time': '09:00\nFRO'}
+2025-05-09 04:04:04,328 - INFO - Found match: {'id': 'KYY8lCmA', 'teams': [], 'score': '-', 'time': '13:45'}
+2025-05-09 04:04:04,555 - INFO - Found match: {'id': 'Ey894yUr', 'teams': [], 'score': '-', 'time': '11:15'}
+2025-05-09 04:04:04,745 - INFO - Found match: {'id': '6iMI0gT7', 'teams': [], 'score': '-', 'time': '11:15'}
+2025-05-09 04:04:04,971 - INFO - Found match: {'id': 't0Rx0vhd', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 04:04:05,130 - INFO - Found match: {'id': 'l2nb7MaM', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 04:04:05,296 - INFO - Found match: {'id': '6sDfm18j', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 04:04:05,448 - INFO - Found match: {'id': 'f3gk9rV9', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 04:04:05,598 - INFO - Found match: {'id': '86JONsp3', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 04:04:05,767 - INFO - Found match: {'id': 'pYXT10Nq', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 04:04:05,931 - INFO - Found match: {'id': 'nwjsB40c', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 04:04:06,097 - INFO - Found match: {'id': 'MP39J3Vs', 'teams': [], 'score': '-', 'time': '07:30'}
+2025-05-09 04:04:06,237 - INFO - Found match: {'id': '84O3FB24', 'teams': [], 'score': '-', 'time': '13:30'}
+2025-05-09 04:04:06,381 - INFO - Found match: {'id': 'AN97XtsQ', 'teams': [], 'score': '-', 'time': '18:00\nFRO'}
+2025-05-09 04:04:06,547 - INFO - Found match: {'id': 'dMbSyNDD', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 04:04:06,706 - INFO - Found match: {'id': '8UPAEboe', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 04:04:06,864 - INFO - Found match: {'id': 'lS99GKGr', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 04:04:07,015 - INFO - Found match: {'id': 'IumxZSW9', 'teams': [], 'score': '-', 'time': '12:30'}
+2025-05-09 04:04:07,190 - INFO - Found match: {'id': 'MDgTzk2c', 'teams': [], 'score': '-', 'time': '13:15'}
+2025-05-09 04:04:07,379 - INFO - Found match: {'id': 'Q1Cec8b4', 'teams': [], 'score': '-', 'time': '07:00'}
+2025-05-09 04:04:07,555 - INFO - Found match: {'id': 'bFA3enTG', 'teams': [], 'score': '-', 'time': '07:00'}
+2025-05-09 04:04:07,711 - INFO - Found match: {'id': 'vkhRcexp', 'teams': [], 'score': '-', 'time': '17:00'}
+2025-05-09 04:04:07,901 - INFO - Found match: {'id': 'bi8SeZ6d', 'teams': [], 'score': '-', 'time': '19:00'}
+2025-05-09 04:04:08,095 - INFO - Found match: {'id': '2TjQDd43', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 04:04:08,311 - INFO - Found match: {'id': 'MwNL2We2', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 04:04:08,511 - INFO - Found match: {'id': 'nPxwfb16', 'teams': [], 'score': '-', 'time': '07:00'}
+2025-05-09 04:04:08,705 - INFO - Found match: {'id': 'SdDB8cGa', 'teams': [], 'score': '-', 'time': '07:00'}
+2025-05-09 04:04:08,927 - INFO - Found match: {'id': 'zaYWFuOP', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 04:04:09,080 - INFO - Found match: {'id': 'IqoMct2s', 'teams': [], 'score': '-', 'time': '12:00'}
+2025-05-09 04:04:09,199 - INFO - Found match: {'id': 'xzeBswC6', 'teams': [], 'score': '-', 'time': None}
+2025-05-09 04:04:09,363 - INFO - Found match: {'id': 'Y1lKuHtJ', 'teams': [], 'score': '-', 'time': '07:00\nFRO'}
+2025-05-09 04:04:09,514 - INFO - Found match: {'id': 'jJd3qasf', 'teams': [], 'score': '-', 'time': '07:30\nFRO'}
+2025-05-09 04:04:09,729 - INFO - Found match: {'id': 'U38foLCs', 'teams': [], 'score': '-', 'time': '08:00\nFRO'}
+2025-05-09 04:04:09,896 - INFO - Found match: {'id': 'lpgosgCj', 'teams': [], 'score': '-', 'time': '07:30'}
+2025-05-09 04:04:10,064 - INFO - Found match: {'id': 'bev3UFSp', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 04:04:10,214 - INFO - Found match: {'id': 'bwHVErY2', 'teams': [], 'score': '-', 'time': '10:30'}
+2025-05-09 04:04:10,367 - INFO - Found match: {'id': '0hlcfZbe', 'teams': [], 'score': '-', 'time': '18:00'}
+2025-05-09 04:04:10,531 - INFO - Found match: {'id': 'ficM7rnL', 'teams': [], 'score': '-', 'time': '19:00'}
+2025-05-09 04:04:10,697 - INFO - Found match: {'id': 'O6mh2M9r', 'teams': [], 'score': '-', 'time': '21:30'}
+2025-05-09 04:04:10,847 - INFO - Found match: {'id': '2Bg7zuRr', 'teams': [], 'score': '-', 'time': '08:00'}
+2025-05-09 04:04:10,998 - INFO - Found match: {'id': 'r7MtKJt2', 'teams': [], 'score': '-', 'time': '10:15'}
+2025-05-09 04:04:11,164 - INFO - Found match: {'id': 'Y3gVLTl4', 'teams': [], 'score': '-', 'time': '07:15'}
+2025-05-09 04:04:11,347 - INFO - Found match: {'id': 'fJsvK7JG', 'teams': [], 'score': '-', 'time': '07:15'}
+2025-05-09 04:04:11,481 - INFO - Found match: {'id': 'nN9HCl8b', 'teams': [], 'score': '2', 'time': None}
+2025-05-09 04:04:11,617 - INFO - Found match: {'id': 'dSmlkTRq', 'teams': [], 'score': '0', 'time': None}
+2025-05-09 04:04:11,764 - INFO - Found match: {'id': 'zJEfqskT', 'teams': [], 'score': '-', 'time': '07:00'}
+2025-05-09 04:04:11,949 - INFO - Found match: {'id': '4hidm7dd', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 04:04:12,145 - INFO - Found match: {'id': 'OjP51L2L', 'teams': [], 'score': '-', 'time': '11:00'}
+2025-05-09 04:04:12,305 - INFO - Found match: {'id': 'KEbiIlaK', 'teams': [], 'score': '-', 'time': '04:00'}
+2025-05-09 04:04:12,450 - INFO - Found match: {'id': '2Z1GCSMs', 'teams': [], 'score': '-', 'time': '10:00'}
+2025-05-09 04:04:12,450 - INFO - Found 239 matches
+2025-05-09 04:04:12,450 - INFO - Getting details for match: KOJsLbH7
+2025-05-09 04:04:44,125 - ERROR - Error getting match statistics: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C5DDCF25+75717]
+	GetHandleVerifier [0x00007FF6C5DDCF80+75808]
+	(No symbol) [0x00007FF6C5BA8F9A]
+	(No symbol) [0x00007FF6C5BFF4C6]
+	(No symbol) [0x00007FF6C5BFF77C]
+	(No symbol) [0x00007FF6C5C52577]
+	(No symbol) [0x00007FF6C5C273BF]
+	(No symbol) [0x00007FF6C5C4F39C]
+	(No symbol) [0x00007FF6C5C27153]
+	(No symbol) [0x00007FF6C5BF0421]
+	(No symbol) [0x00007FF6C5BF11B3]
+	GetHandleVerifier [0x00007FF6C60DD6FD+3223453]
+	GetHandleVerifier [0x00007FF6C60D7CA2+3200322]
+	GetHandleVerifier [0x00007FF6C60F5AD3+3322739]
+	GetHandleVerifier [0x00007FF6C5DF69FA+180890]
+	GetHandleVerifier [0x00007FF6C5DFE0FF+211359]
+	GetHandleVerifier [0x00007FF6C5DE5274+109332]
+	GetHandleVerifier [0x00007FF6C5DE5422+109762]
+	GetHandleVerifier [0x00007FF6C5DCBA39+4825]
+	BaseThreadInitThunk [0x00007FFE5494E8D7+23]
+	RtlUserThreadStart [0x00007FFE554114FC+44]
+
+2025-05-09 04:04:46,134 - INFO - Getting details for match: 6PkzYqGj
+2025-05-09 04:05:19,675 - ERROR - Error getting match statistics: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C5DDCF25+75717]
+	GetHandleVerifier [0x00007FF6C5DDCF80+75808]
+	(No symbol) [0x00007FF6C5BA8F9A]
+	(No symbol) [0x00007FF6C5BFF4C6]
+	(No symbol) [0x00007FF6C5BFF77C]
+	(No symbol) [0x00007FF6C5C52577]
+	(No symbol) [0x00007FF6C5C273BF]
+	(No symbol) [0x00007FF6C5C4F39C]
+	(No symbol) [0x00007FF6C5C27153]
+	(No symbol) [0x00007FF6C5BF0421]
+	(No symbol) [0x00007FF6C5BF11B3]
+	GetHandleVerifier [0x00007FF6C60DD6FD+3223453]
+	GetHandleVerifier [0x00007FF6C60D7CA2+3200322]
+	GetHandleVerifier [0x00007FF6C60F5AD3+3322739]
+	GetHandleVerifier [0x00007FF6C5DF69FA+180890]
+	GetHandleVerifier [0x00007FF6C5DFE0FF+211359]
+	GetHandleVerifier [0x00007FF6C5DE5274+109332]
+	GetHandleVerifier [0x00007FF6C5DE5422+109762]
+	GetHandleVerifier [0x00007FF6C5DCBA39+4825]
+	BaseThreadInitThunk [0x00007FFE5494E8D7+23]
+	RtlUserThreadStart [0x00007FFE554114FC+44]
+
+2025-05-09 04:05:21,680 - INFO - Getting details for match: 4MMUYqIF
+2025-05-09 04:05:51,721 - ERROR - Error getting match statistics: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C5DDCF25+75717]
+	GetHandleVerifier [0x00007FF6C5DDCF80+75808]
+	(No symbol) [0x00007FF6C5BA8F9A]
+	(No symbol) [0x00007FF6C5BFF4C6]
+	(No symbol) [0x00007FF6C5BFF77C]
+	(No symbol) [0x00007FF6C5C52577]
+	(No symbol) [0x00007FF6C5C273BF]
+	(No symbol) [0x00007FF6C5C4F39C]
+	(No symbol) [0x00007FF6C5C27153]
+	(No symbol) [0x00007FF6C5BF0421]
+	(No symbol) [0x00007FF6C5BF11B3]
+	GetHandleVerifier [0x00007FF6C60DD6FD+3223453]
+	GetHandleVerifier [0x00007FF6C60D7CA2+3200322]
+	GetHandleVerifier [0x00007FF6C60F5AD3+3322739]
+	GetHandleVerifier [0x00007FF6C5DF69FA+180890]
+	GetHandleVerifier [0x00007FF6C5DFE0FF+211359]
+	GetHandleVerifier [0x00007FF6C5DE5274+109332]
+	GetHandleVerifier [0x00007FF6C5DE5422+109762]
+	GetHandleVerifier [0x00007FF6C5DCBA39+4825]
+	BaseThreadInitThunk [0x00007FFE5494E8D7+23]
+	RtlUserThreadStart [0x00007FFE554114FC+44]
+
+2025-05-09 04:05:53,731 - INFO - Getting details for match: 6mjfo6zG
+2025-05-09 04:06:21,560 - ERROR - Error getting match statistics: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C5DDCF25+75717]
+	GetHandleVerifier [0x00007FF6C5DDCF80+75808]
+	(No symbol) [0x00007FF6C5BA8F9A]
+	(No symbol) [0x00007FF6C5BFF4C6]
+	(No symbol) [0x00007FF6C5BFF77C]
+	(No symbol) [0x00007FF6C5C52577]
+	(No symbol) [0x00007FF6C5C273BF]
+	(No symbol) [0x00007FF6C5C4F39C]
+	(No symbol) [0x00007FF6C5C27153]
+	(No symbol) [0x00007FF6C5BF0421]
+	(No symbol) [0x00007FF6C5BF11B3]
+	GetHandleVerifier [0x00007FF6C60DD6FD+3223453]
+	GetHandleVerifier [0x00007FF6C60D7CA2+3200322]
+	GetHandleVerifier [0x00007FF6C60F5AD3+3322739]
+	GetHandleVerifier [0x00007FF6C5DF69FA+180890]
+	GetHandleVerifier [0x00007FF6C5DFE0FF+211359]
+	GetHandleVerifier [0x00007FF6C5DE5274+109332]
+	GetHandleVerifier [0x00007FF6C5DE5422+109762]
+	GetHandleVerifier [0x00007FF6C5DCBA39+4825]
+	BaseThreadInitThunk [0x00007FFE5494E8D7+23]
+	RtlUserThreadStart [0x00007FFE554114FC+44]
+
+2025-05-09 04:06:23,570 - INFO - Getting details for match: pY1omS53
+2025-05-09 04:06:51,057 - ERROR - Error getting match statistics: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C5DDCF25+75717]
+	GetHandleVerifier [0x00007FF6C5DDCF80+75808]
+	(No symbol) [0x00007FF6C5BA8F9A]
+	(No symbol) [0x00007FF6C5BFF4C6]
+	(No symbol) [0x00007FF6C5BFF77C]
+	(No symbol) [0x00007FF6C5C52577]
+	(No symbol) [0x00007FF6C5C273BF]
+	(No symbol) [0x00007FF6C5C4F39C]
+	(No symbol) [0x00007FF6C5C27153]
+	(No symbol) [0x00007FF6C5BF0421]
+	(No symbol) [0x00007FF6C5BF11B3]
+	GetHandleVerifier [0x00007FF6C60DD6FD+3223453]
+	GetHandleVerifier [0x00007FF6C60D7CA2+3200322]
+	GetHandleVerifier [0x00007FF6C60F5AD3+3322739]
+	GetHandleVerifier [0x00007FF6C5DF69FA+180890]
+	GetHandleVerifier [0x00007FF6C5DFE0FF+211359]
+	GetHandleVerifier [0x00007FF6C5DE5274+109332]
+	GetHandleVerifier [0x00007FF6C5DE5422+109762]
+	GetHandleVerifier [0x00007FF6C5DCBA39+4825]
+	BaseThreadInitThunk [0x00007FFE5494E8D7+23]
+	RtlUserThreadStart [0x00007FFE554114FC+44]
+
+2025-05-09 04:06:53,062 - INFO - Saved 5 matches to matches_20250509.json
+2025-05-09 04:06:55,907 - INFO - Browser closed

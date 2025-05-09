@@ -1,0 +1,8 @@
+scraper.log
+season_scraper.log
+flashscore_analysis.log
+drivers/chromedriver.exe
+drivers/chromedriver-win64/LICENSE.chromedriver
+drivers/chromedriver-win64/THIRD_PARTY_NOTICES.chromedriver
+processed/2025-05-07.json
+season_scraper.log
